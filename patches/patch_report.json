@@ -1,0 +1,73 @@
+{
+  "target": {
+    "file": "Flux.jar",
+    "sha256": "506D7B5659846F4F440CC6CB2BAB69D0A38262A213A4C7F43521C5DF1964FE2E",
+    "obfuscator": "Zelix KlassMaster 12.0.4"
+  },
+  "patches": [
+    {
+      "id": "P1",
+      "class": "q08",
+      "method": "drawScreen(IIF)V",
+      "purpose": "login gate: the only qih instantiation in the jar; make it unreachable",
+      "sites": [
+        {
+          "code_offset": 35,
+          "kind": "getfield prq.dbd + ifnonnull -> pop; nop; nop; goto menu",
+          "before_hex": "b4 00 84 c7 00 16",
+          "after_hex": "57 00 00 a7 00 16"
+        },
+        {
+          "code_offset": 22,
+          "kind": "ifnull -> login block : pop; nop; nop",
+          "before_hex": "c6 00 13",
+          "after_hex": "57 00 00"
+        }
+      ],
+      "login_block": {
+        "entry_offset": 41,
+        "new_qih_offset": 45
+      },
+      "menu_path_offset": 60
+    },
+    {
+      "id": "P2",
+      "class": "jiz",
+      "method": "<init>",
+      "purpose": "remove the deliberate Unsafe.putAddress(0,0) JVM-crash anti-tamper",
+      "sites": [
+        {
+          "code_offset": 108,
+          "before_hex": "b6 00 67",
+          "after_hex": "58 58 57",
+          "note": "pop2; pop2; pop"
+        }
+      ]
+    },
+    {
+      "id": "P3",
+      "class": "q08",
+      "method": "drawScreen(IIF)V",
+      "purpose": "null-guard the unauthenticated welcome-text session lookup (zwr.ooi().qr2().getUserName()); zwr.tgs is null until login",
+      "constant_pool": "appended CONSTANT_Utf8 + CONSTANT_String (empty); no existing pool index is renumbered",
+      "sites": [
+        {
+          "code_offset": 541,
+          "before_hex": "b8 01 18 b6 01 1c b6 01 21",
+          "after_hex": "ldc_w <empty String> + nop x6"
+        },
+        {
+          "code_offset": 590,
+          "before_hex": "b8 01 18 b6 01 1c b6 01 21",
+          "after_hex": "ldc_w <empty String> + nop x6"
+        }
+      ]
+    }
+  ],
+  "verification": {
+    "reachability": "login block unreachable; every menu-path hop reachable; roots = method entry + all exception handler PCs",
+    "jvm_bytecode_verification": "all patched classes link successfully; a deliberately corrupted patch is rejected with VerifyError",
+    "dynamic_control": "original build throws inside qih.<init> (login screen reached)",
+    "dynamic_patched": "patched build never resolves/instantiates qih (menu path reached)"
+  }
+}

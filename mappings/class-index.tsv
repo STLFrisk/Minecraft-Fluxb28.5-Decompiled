@@ -1,0 +1,3395 @@
+# class	literals	interesting_literals	referenced_by	native_methods	hint
+oov	0	0	1911	0	
+t9d	44	43	1753	0	tick
+a	0	0	1619	0	
+c	0	0	1618	0	
+mew	0	0	556	0	
+c05	243	239	511	1	MLv5_Yggdrasil.der
+e0x	410	410	464	0	air
+zfz	0	0	424	0	
+erg	80	78	393	0	id
+ox_	0	0	373	0	
+i2h	75	72	350	0	id
+vt2	18	18	338	0	UP
+fe6	3	3	309	0	, 
+ha9	50	41	300	0	XpP
+p3y	0	0	257	0	
+u7m	438	438	235	0	+4
+gdz	0	0	225	0	
+hzu	4	4	224	0	, tex: 
+hxt	104	92	202	0	textures/gui/title/mojang.png
+xbr	0	0	197	0	
+g_3	35	30	187	0	ai
+bdo	10	10	187	0	NBT Tag
+l86	12	11	160	0	minecraft:chest
+nh4	6	6	160	0	, 
+uja	16	13	137	0	misc
+mz2	0	0	137	0	
+nfj	15	15	127	0	 > 
+j1s	0	0	125	5	
+ar7	4	4	122	1	Mode
+ekw	0	0	112	0	
+moh	483	364	111	0	%c
+_aj	0	0	110	0	
+tf8	3	3	109	0	id: 
+xny	0	0	105	0	
+g6r	0	0	100	0	
+fqr	2	2	99	0	, 
+vr1	93	91	97	0	level://
+lc5	11	11	97	0	logo
+g92	3	3	94	0	, 
+pyk	30	30	93	0	id
+net.minecraft.world.gen.structure.StructureStrongholdPieces$Stronghold	2	2	93	0	EntryDoor
+cn7	0	0	93	0	
+fc1	0	0	93	0	
+gt4	2	1	92	0	textures/gui/widgets.png
+gyu	0	0	91	0	
+kh3	17	16	90	0	true
+q3g	5	5	90	0	 bytes.
+gbe	24	24	88	0	 (
+owt	11	11	88	0	blend
+zwr	64	64	86	1	New
+syo	47	47	85	0	RED
+jnq	9	8	85	0	Slot
+net.optifine.reflect.Reflector	195	195	84	0	yaw
+pj2	19	19	83	0	flying
+p_k	27	17	79	0	level://
+kgt	0	0	78	2	
+jom	0	0	77	0	
+jsv	0	0	76	0	
+w_0	0	0	76	0	
+m5n	0	0	75	0	
+crk	0	0	74	0	
+gnl	0	0	74	0	
+yve	6	6	73	0	x0
+e7r	0	0	73	0	
+net.optifine.Lang	10	5	70	0	%$1s
+tao	3	3	69	0	, style=
+ofh	27	26	66	0	mob
+l9p	112	106	64	0	.name
+bc_	28	21	64	0	, 
+hsu	7	7	64	0	%%
+yqv	38	38	60	0	NoAI
+w51	0	0	60	0	
+z96	21	20	59	0	me
+xi1	6	6	56	0	id
+net.optifine.util.StrUtils	0	0	56	0	
+_jc	0	0	55	0	
+rsi	0	0	55	0	
+qhg	7	7	54	0	Missing type on ListTag
+_4o	0	0	54	0	
+gis	54	54	53	0	ati
+hv0	29	28	52	0	decrypt
+cjm	0	0	52	0	
+zb_	0	0	52	0	
+mcs	52	38	51	0	**:**
+m6d	29	29	51	0	Name
+net.optifine.shaders.Shaders	0	0	51	0	
+ef9	29	29	50	0	true
+upn	0	0	50	0	
+hr_	12	12	49	0	slim
+cyb	7	7	49	0	§r
+wl1	7	7	49	0	Data ID
+w57	0	0	49	0	
+vrx	0	0	48	0	
+jsr	0	0	47	0	
+net.minecraft.network.play.server.S14PacketEntity	0	0	47	0	
+c_3	0	0	46	0	
+net.optifine.entity.model.ModelAdapter	0	0	46	0	
+cog	102	102	45	0	Time
+wsc	21	21	45	0	, 
+_mi	0	0	45	0	
+dug	0	0	45	0	
+yu2	58	58	43	0	, 
+akm	5	5	43	0	, f=
+flo	5	5	43	0	, Pos (
+fz2	0	0	43	0	
+vef	28	28	42	0	lure
+sdj	17	17	42	0	Id
+a6_	0	0	42	0	
+h76	0	0	42	0	
+qvg	0	0	42	0	
+uvb	0	0	42	0	
+vt2$y0s	0	0	42	0	
+vt2$unz	3	3	41	0	VERTICAL
+sla	23	23	40	0	_n
+eka	0	0	40	0	
+m7l	0	0	40	0	
+wlx	32	28	39	0	, 
+p8a	2	2	39	0	pathfind
+x54$lti	0	0	39	0	
+tts	20	20	38	0	, 
+poy	9	9	38	0	, bold=
+ncl	4	4	38	0	/wdr 
+nhs	0	0	38	0	
+v4k	0	0	38	0	
+e1i	57	57	37	0	This is a token for 1 free hug. Redeem at your nearest Mojangsta: [~~HUG~~]
+net.optifine.reflect.ReflectorMethod	4	4	37	0	(Reflector)  - 
+cdu	0	0	37	0	
+orr	0	0	37	0	
+b0t	0	0	36	0	
+mew$mix	0	0	36	0	
+hh6	0	0	35	0	
+laq	0	0	35	0	
+net.optifine.shaders.ShadersTex	7	7	34	0	_n
+gun	2	2	34	0	BlockEntityTag
+v66	0	0	34	0	
+z7e	0	0	34	0	
+net.minecraft.network.play.client.C03PacketPlayer	0	0	33	0	
+nvf	20	18	32	0	Age
+_qa	0	0	32	0	
+jnv	0	0	32	0	
+fyk	44	44	31	0	KillAura
+aba	0	0	31	0	
+h50$f05	0	0	31	0	
+q6h	0	0	31	0	
+hc0	10	10	30	0	id
+liu	4	4	30	0	deadmau5
+q8e	0	0	30	0	
+so9	0	0	30	0	
+dak	2	2	29	0	goalTick
+p9t	0	0	29	0	
+qpm	0	0	29	0	
+y99	0	0	29	0	
+no5	0	0	28	0	
+h2f	0	0	27	0	
+net.optifine.reflect.ReflectorField	0	0	27	0	
+v3i	89	86	26	0	https://optifine.net/downloads
+jpt	18	18	26	0	color
+net.optifine.shaders.config.ShaderOption	11	11	26	0	//
+gnj	0	0	26	0	
+hhf	0	0	26	0	
+mkt	0	0	26	0	
+q0r	0	0	26	0	
+y1w	531	531	25	0	ice
+mlk	60	57	25	0	 (
+uci	23	23	25	0	'.
+uan	22	22	25	0	 ms
+zlz	2	2	25	0	normal
+rh0	0	0	25	0	
+f83	31	31	24	0	...
+_ss	9	9	24	0	" and "
+_tb	0	0	24	0	
+bdq	0	0	24	0	
+vlc	0	0	24	0	
+zvv	0	0	24	0	
+zfo	94	65	23	0	meo
+_f3	16	16	23	0	portal
+boa	0	0	23	0	
+moh$_ru	0	0	23	0	
+net.minecraft.tileentity.TileEntityBeacon$yv7	0	0	23	0	
+net.optifine.reflect.ReflectorClass	0	0	23	0	
+d1f	27	26	22	0	Flux.Today
+_ku	4	4	22	0	Min value of 
+ccn	0	0	22	0	
+crp	0	0	22	0	
+dbw	0	0	22	0	
+ihr	0	0	22	0	
+net.optifine.CustomColors	0	0	22	0	
+net.optifine.expr.ExpressionType	0	0	22	0	
+okn	0	0	22	0	
+q9h	0	0	22	0	
+qx_	0	0	22	0	
+sa6	0	0	22	0	
+sm5	0	0	22	0	
+y8d	0	0	22	0	
+ysf	0	0	22	0	
+hy9	29	26	21	0	life
+cdp	12	12	21	0	Layer
+ohv	11	11	21	0	Speed
+z97	4	4	21	0	cache: 
+_cv	0	0	21	0	
+cm_	0	0	21	0	
+jqk	0	0	21	0	
+n_k$pbp	0	0	21	0	
+ps6	0	0	21	0	
+rw8	0	0	21	0	
+wbh	0	0	21	0	
+szk	72	72	20	0	m#
+y65	72	72	20	0	Cannot register to reserved id: 
+gxq	9	9	20	0	flat
+xk5	7	7	20	0	, id=
+ttt	6	6	20	0	Biome A
+nkx	4	4	20	0	): 
+r11	3	3	20	0	Cannot modify read-only score
+bn1	0	0	20	0	
+dr9	0	0	20	1	
+gdw	0	0	20	0	
+knw	0	0	20	0	
+mtl	0	0	20	0	
+s24	0	0	20	0	
+w5i	0	0	20	0	
+yaa	0	0	20	0	
+net.optifine.util.TextureUtils	105	105	19	0	./
+oa4	4	4	19	0	vertex: 
+qfn	2	2	19	0	Block being tesselated
+akm$qs6	0	0	19	0	
+dnq	0	0	19	0	
+g6k	0	0	19	0	
+izd	0	0	19	0	
+net.optifine.util.PropertiesOrdered	0	0	19	0	
+ov6	0	0	19	0	
+rak	0	0	19	0	
+sdf	0	0	19	0	
+xcy	0	0	19	0	
+za6	0	0	19	0	
+v6ma	15	13	18	1	.dylib
+r1l	12	12	18	0	ip
+dbu	10	9	18	0	.ogg
+jvy	9	9	18	0	_box
+net.minecraft.tileentity.TileEntityChest	11	8	18	0	Slot
+x0l	3	3	18	0	http://skins.minecraft.net/MinecraftSkins/%s.png
+hmv	6	2	18	0	Invalid material
+lno	2	2	18	0	The coordinate is out of range
+osf	7	2	18	0	PlayerCreated
+_f3$c3d	0	0	18	0	
+bx0$b_z	0	0	18	0	
+e9q	0	0	18	0	
+kea	0	0	18	0	
+net.minecraft.world.gen.structure.StructureOceanMonumentPieces$man	0	0	18	0	
+net.optifine.shaders.uniform.ShaderUniformBase	0	0	18	0	
+s0i	6	0	18	0	
+u5m$cco	0	0	18	0	
+xv4	0	0	18	0	
+ybv	0	0	18	0	
+z14	0	0	18	0	
+zg9	0	0	18	0	
+dge	14	13	17	0	big
+gze	16	12	17	0	Fuse
+nmo	10	10	17	0	id
+uno	8	6	17	0	Age
+kqk	2	2	17	0	pos: 
+g68	0	0	17	0	
+j0j	0	0	17	0	
+k0_	0	0	17	0	
+net.minecraft.network.play.client.C03PacketPlayer$C04PacketPlayerPosition	0	0	17	0	
+net.optifine.render.RenderEnv	0	0	17	0	
+sxg	0	0	17	0	
+net.optifine.config.ConnectedParser	70	70	16	0	 ,
+h67	34	34	16	0	Pose
+oru	5	5	16	0	GL_FRAMEBUFFER_INCOMPLETE_ATTACHMENT
+ia2	9	4	16	0	Color
+btc	2	2	16	0	bytes where max allowed: 
+e0x$zvv	2	2	16	0	dig.
+gyu$dwn	2	2	16	0	*(
+jfy	2	2	16	0	:0
+q2m	2	2	16	0	Name cannot be null
+bk4	0	0	16	0	
+es2	0	0	16	0	
+f62	0	0	16	0	
+jgv$vro	0	0	16	0	
+net.minecraft.world.gen.structure.StructureNetherBridgePieces$Piece	0	0	16	0	
+net.minecraft.world.gen.structure.StructureNetherBridgePieces$Start	0	0	16	0	
+net.minecraft.world.gen.structure.StructureVillagePieces$Start	0	0	16	0	
+net.optifine.config.MatchBlock	0	0	16	0	
+nga	0	0	16	0	
+rrw	0	0	16	0	
+z0_	0	0	16	0	
+z0w	0	0	16	0	
+a0t	12	12	15	0	LOGIN
+gse	13	5	15	0	Angry
+ak9	3	3	15	0	default
+hrd	3	3	15	0	facing
+r5m	4	3	15	0	pulling_0
+c9p	13	2	15	0	Elder
+j37	2	2	15	0	InLove
+yem	2	2	15	0	, siblings=
+a_t	0	0	15	0	
+b5k	0	0	15	0	
+ed7	0	0	15	0	
+get	0	0	15	0	
+net.minecraft.network.play.client.C07PacketPlayerDigging	0	0	15	0	
+net.minecraft.network.play.client.C07PacketPlayerDigging$pl2	0	0	15	0	
+net.minecraft.world.gen.structure.StructureStrongholdPieces	0	0	15	0	
+tyh	0	0	15	0	
+w9p	0	0	15	0	
+x4j$y3_	0	0	15	0	
+ypi	0	0	15	0	
+z7z	0	0	15	0	
+ekw$szt	35	35	14	0	text
+iyr	16	16	14	0	pr
+wuo	9	8	14	0	alt
+net.minecraft.world.gen.structure.StructureVillagePieces$Village	6	6	14	0	HPos
+h_s	7	4	14	0	fireball
+net.minecraft.tileentity.TileEntitySign	2	2	14	0	Text
+bx0	0	0	14	0	
+goq	0	0	14	0	
+kf9	2	0	14	0	
+lv1	0	0	14	0	
+n1e	0	0	14	0	
+net.minecraft.world.gen.structure.StructureStrongholdPieces$Stairs2	0	0	14	0	
+net.optifine.expr.IExpressionFloat	0	0	14	0	
+net.optifine.gui.TooltipProviderOptions	0	0	14	0	
+nm6	0	0	14	0	
+npr	0	0	14	0	
+opt	0	0	14	0	
+osd	0	0	14	0	
+p9u	0	0	14	0	
+u1p	0	0	14	0	
+wgo	0	0	14	0	
+x1l	0	0	14	0	
+y0y$_zr	0	0	14	0	
+zet	0	0	14	0	
+sza	20	20	13	0	Unexpected token '
+we7	25	20	13	0	IsBaby
+dgn	14	11	13	0	 (
+net.minecraft.tileentity.TileEntitySkull	11	11	13	0	Rot
+co7	10	10	13	0	Item
+kxi	10	5	13	0	RabbitType
+w54	3	3	13	0	doEntityDrops
+_gj	6	2	13	0	Saddle
+_13	0	0	13	0	
+ce2	0	0	13	0	
+dxd$v9l	0	0	13	0	
+flk$gbm	0	0	13	0	
+ha_	0	0	13	0	
+he6	0	0	13	0	
+hv2	0	0	13	0	
+net.minecraft.network.play.server.S08PacketPlayerPosLook	0	0	13	0	
+net.minecraft.world.gen.structure.StructureOceanMonumentPieces$Piece	0	0	13	0	
+net.optifine.reflect.ReflectorForge	0	0	13	0	
+u5m	0	0	13	0	
+ui9	0	0	13	0	
+uj3	0	0	13	0	
+uv0	0	0	13	0	
+aih	31	31	12	0	id
+ar9	25	25	12	0	Hypixel
+net.minecraft.tileentity.TileEntityBanner	22	22	12	0	Base
+ucr	22	22	12	0	id
+k6s	20	20	12	0	] 
+xxb	16	16	12	0	buy
+j44	14	14	12	0	Id
+wkk	10	10	12	0	foodLevel
+qd_	7	7	12	0	Name: 
+w4e	7	7	12	0	tile
+v9i	10	6	12	0	Anger
+n78	10	5	12	0	EggLayTime
+amb	3	3	12	0	gold
+jzg	8	3	12	0	SkeletonType
+tgr	2	2	12	0	, value='
+_ov	0	0	12	0	
+bww	0	0	12	0	
+dqt	0	0	12	0	
+gmu	0	0	12	0	
+h50	0	0	12	0	
+hzu$win	0	0	12	0	
+ik0	0	0	12	0	
+j83	0	0	12	4	
+ldj$vn8	0	0	12	0	
+n0i$pto	0	0	12	0	
+net.minecraft.tileentity.TileEntityMobSpawner	0	0	12	0	
+net.optifine.expr.IExpression	0	0	12	0	
+net.optifine.expr.IExpressionBool	0	0	12	0	
+omb	0	0	12	0	
+qe5	0	0	12	0	
+rsh	0	0	12	0	
+tgr$a3_	0	0	12	0	
+uav	0	0	12	0	
+yig	23	23	11	0	_log
+iq7	14	14	11	0	 - 
+_lk	11	11	11	0	ESP
+f58	11	11	11	0	map
+fcs	12	9	11	0	head
+i4o	9	9	11	0	Fly
+jux	9	9	11	0	Particle
+net.minecraft.tileentity.TileEntityBeacon	8	7	11	0	Levels
+f3x	8	6	11	0	Select world
+ju8	7	4	11	0	Invul
+be7	3	3	11	0	format: 
+hu3	8	3	11	0	CatType
+l7l	3	3	11	0	.desc
+rkj	3	3	11	0	, 
+mux	2	2	11	0	, 
+pix	2	2	11	0	Fuse
+skn	2	2	11	0	Recipes
+aog	3	1	11	0	extended
+_aq	0	0	11	0	
+arf	0	0	11	0	
+edl	0	0	11	0	
+h2d	0	0	11	0	
+kr3	0	0	11	0	
+kuo	0	0	11	0	
+n47	0	0	11	0	
+n_0	0	0	11	0	
+net.minecraft.network.play.client.C02PacketUseEntity	0	0	11	0	
+net.minecraft.network.play.client.C09PacketHeldItemChange	0	0	11	0	
+net.optifine.BlockPosM	0	0	11	0	
+net.optifine.SmartAnimations	0	0	11	0	
+net.optifine.shaders.IShaderPack	0	0	11	0	
+p_c	0	0	11	0	
+pmc	0	0	11	0	
+pmc$s6y	0	0	11	0	
+qv5	0	0	11	0	
+rh2$j7i	0	0	11	0	
+sjk	0	0	11	0	
+u10	4	0	11	0	
+w8s	0	0	11	0	
+x82	0	0	11	0	
+xe9	0	0	11	0	
+yo9	0	0	11	0	
+zty	0	0	11	0	
+j7z	38	38	10	0	CX
+vjf	27	27	10	0	Data
+ijb	10	10	10	0	id
+k9a	9	9	10	0	Owner
+net.minecraft.tileentity.TileEntityDispenser	9	8	10	0	Slot
+net.optifine.util.ResUtils	6	6	10	0	: Loading 
+bg8	5	5	10	0	Tick
+iri	4	4	10	0	 §f
+nuq	4	4	10	0	Potion
+n0_	3	3	10	0	Motive
+_6b	4	2	10	0	doFireTick
+bgg	2	2	10	0	\\"
+l5f	5	2	10	0	BatFlags
+ry6	2	2	10	0	, 
+_x3	0	0	10	0	
+b41	2	0	10	0	
+css	0	0	10	0	
+dzm	0	0	10	0	
+e97	0	0	10	0	
+eur	0	0	10	0	
+flv	0	0	10	0	
+hvn$dyo	0	0	10	0	
+itu	0	0	10	0	
+j91	4	0	10	0	
+jcc$whg	0	0	10	0	
+jrp	0	0	10	0	
+kuo$yh_	0	0	10	0	
+m75	0	0	10	0	
+n8i	0	0	10	0	
+net.minecraft.network.play.client.C02PacketUseEntity$_y6	0	0	10	0	
+net.minecraft.network.play.client.C08PacketPlayerBlockPlacement	0	0	10	0	
+net.minecraft.network.play.client.C0FPacketConfirmTransaction	0	0	10	0	
+net.minecraft.network.play.server.S2BPacketChangeGameState	0	0	10	0	
+net.minecraft.tileentity.TileEntityEnderChest	2	0	10	0	
+net.optifine.player.PlayerItemModel	0	0	10	0	
+pni	0	0	10	0	
+qat	0	0	10	0	
+sw6	0	0	10	0	
+t_2	0	0	10	0	
+txr	0	0	10	0	
+tym	0	0	10	0	
+u5m$bad	0	0	10	0	
+ugc	0	0	10	0	
+um3	0	0	10	0	
+v8a	0	0	10	0	
+vs1	0	0	10	0	
+w1x	0	0	10	0	
+y0y	0	0	10	0	
+y_h$xfc	0	0	10	0	
+yw3	0	0	10	0	
+z08	0	0	10	0	
+zim	0	0	10	0	
+zrl	0	0	10	0	
+krg	30	30	9	0	, 
+ipp	27	27	9	0	Hud
+iww	24	24	9	0	, 
+nvj	23	23	9	0	, 
+mlb	21	21	9	0	1.7
+net.optifine.shaders.ShadersRender	21	21	9	0	shadow fb
+c5x	15	15	9	0	xTile
+q08	15	15	9	0	Copyright Mojang AB. Do not distribute!
+ulc	15	15	9	0	HAT
+net.optifine.DynamicLights	12	12	9	0	items
+w69	12	12	9	0	File 
+zfs	12	12	9	0	Invalid username or password.
+f5k	11	11	9	0	Tablist
+fln	11	11	9	0	%d,%d
+uy1	7	7	9	0	1.0
+tl9	8	4	9	0	Lifetime
+ldj	3	3	9	0	half
+net.minecraft.network.play.client.C17PacketCustomPayload	2	2	9	0	Payload may not be larger than 32767 bytes
+nrk	4	2	9	0	MC|Beacon
+_83	0	0	9	0	
+a7q	0	0	9	0	
+axn	0	0	9	0	
+cbc	0	0	9	0	
+d26	0	0	9	0	
+fcu	0	0	9	0	
+gqf$auu	0	0	9	0	
+j0s	0	0	9	0	
+jej	0	0	9	0	
+jpt$j4h	0	0	9	0	
+k7p	0	0	9	0	
+lva	0	0	9	0	
+n_0$ajs	0	0	9	0	
+net.minecraft.network.play.client.C0BPacketEntityAction	0	0	9	0	
+net.minecraft.network.play.client.C0BPacketEntityAction$ck7	0	0	9	0	
+net.minecraft.network.play.client.C16PacketClientStatus$v78	0	0	9	0	
+net.minecraft.network.play.server.S02PacketChat	0	0	9	0	
+net.minecraft.network.play.server.S35PacketUpdateTileEntity	0	0	9	0	
+net.minecraft.world.gen.structure.StructureOceanMonumentPieces$cnm	0	0	9	0	
+net.optifine.config.RangeListInt	0	0	9	0	
+net.optifine.model.ListQuadsOverlay	0	0	9	0	
+q1h	4	0	9	0	
+rg_	0	0	9	0	
+sq9	0	0	9	0	
+sss	4	0	9	0	
+u98	0	0	9	0	
+v58	0	0	9	0	
+vu6	0	0	9	0	
+w4v	0	0	9	0	
+w55	0	0	9	0	
+xdt	0	0	9	0	
+zfj	0	0	9	0	
+net.optifine.expr.FunctionType	97	97	8	0	PI
+net.optifine.CustomColormap	42	42	8	0	grid
+jn3	30	30	8	0	cull
+s9r	26	23	8	0	MLv5_Netease.der
+net.minecraft.tileentity.TileEntityFurnace	18	17	8	0	Slot
+rdv	12	12	8	0	Dir
+crb	11	11	8	0	GET
+nl9	10	9	8	0	Life
+g62	8	8	8	0	_tmp
+gqf	9	8	8	0	win
+pld	9	8	8	0	   
+qpc	8	8	8	0	 blocks
+net.optifine.Log	7	6	8	0	true
+net.optifine.shaders.Program	6	6	8	0	none
+dms	4	4	8	0	Age
+net.minecraft.tileentity.TileEntityEnchantmentTable	5	4	8	0	CustomName
+_8w	4	3	8	0	occupied
+lg5	3	3	8	0	, 
+ll8	3	3	8	0	, 
+net.optifine.entity.model.anim.ModelVariableUpdater	3	3	8	0	: 
+xv0	3	3	8	0	, 
+g5s	2	2	8	0	, 
+uw1	3	2	8	0	axis
+xq3	2	2	8	0	, value='
+y3k	2	2	8	0	uvs
+f86	1	1	8	0	.name
+_xi	0	0	8	0	
+a4v	0	0	8	0	
+al9	0	0	8	0	
+b4u	0	0	8	0	
+b64	0	0	8	0	
+b9a	0	0	8	0	
+cp8$vxz	0	0	8	0	
+d2q	0	0	8	0	
+dur	0	0	8	0	
+e0x$hep	0	0	8	0	
+ek6	0	0	8	0	
+fl3	0	0	8	0	
+flk	0	0	8	0	
+g7u	0	0	8	0	
+gdw$q1_	0	0	8	0	
+gkx$lpc	0	0	8	0	
+h7z	0	0	8	0	
+izd$jc0	0	0	8	0	
+j9i	0	0	8	0	
+ka8	0	0	8	0	
+kuv	0	0	8	0	
+l6n	0	0	8	0	
+ld0	0	0	8	0	
+n0i$p_w	0	0	8	0	
+net.minecraft.network.play.client.C13PacketPlayerAbilities	0	0	8	0	
+net.minecraft.network.play.client.C16PacketClientStatus	0	0	8	0	
+net.minecraft.world.gen.structure.StructureStrongholdPieces$Stronghold$gjy	0	0	8	0	
+net.optifine.CustomColors$IColorizer	0	0	8	0	
+net.optifine.config.Matches	0	0	8	0	
+net.optifine.gui.TooltipManager	0	0	8	0	
+net.optifine.http.HttpResponse	0	0	8	0	
+net.optifine.shaders.config.EnumShaderOption	0	0	8	0	
+qpg	0	0	8	0	
+rh2	0	0	8	0	
+rr0	0	0	8	0	
+rr8	0	0	8	0	
+sj_	0	0	8	0	
+uk2	0	0	8	0	
+v5l	0	0	8	0	
+vdu	0	0	8	0	
+vu3	0	0	8	0	
+wel	0	0	8	0	
+xq3$e6b	0	0	8	0	
+xup	0	0	8	0	
+zfj$yuc	0	0	8	0	
+net.optifine.CustomItems	91	86	7	0	_n
+gwo	53	49	7	0	Login attempt successful
+net.optifine.RandomEntities	47	47	7	0	.png
+z83	31	31	7	0	lm
+nf1	30	30	7	0	, 
+sm0	19	19	7	0	Bow
+net.optifine.config.NbtTagValue	15	15	7	0	 = 
+vk8	11	11	7	0	AES
+net.optifine.shaders.SMCLog	9	9	7	0	[Shaders] 
+ob1	8	8	7	0	Connection
+pcl	5	5	7	0	east
+rqp	5	5	7	0	 in 
+if1	4	4	7	0	Invalid metadata for '
+wip	4	4	7	0	slim
+g_x	3	3	7	0	Using AO
+r72$kqk	3	3	7	0	up
+skj	4	3	7	0	Stealing Chest
+_fg	2	2	7	0	javax.vecmath.ExceptionStrings
+c7o	2	2	7	0	.item
+jcc	2	2	7	0	.name
+xfj	2	2	7	0	texture
+_h4$i61	0	0	7	0	
+akr	0	0	7	0	
+atg	0	0	7	0	
+ccm	0	0	7	0	
+cco	0	0	7	0	
+d6l	0	0	7	0	
+db9	0	0	7	0	
+dlj	0	0	7	0	
+e7p	0	0	7	0	
+edg	0	0	7	0	
+f5a	0	0	7	0	
+f5h	0	0	7	0	
+g4v	0	0	7	0	
+gkx$nul	0	0	7	0	
+hej	0	0	7	0	
+hvn	0	0	7	0	
+idp	0	0	7	0	
+iw2	0	0	7	0	
+j_9	0	0	7	0	
+jv0	0	0	7	0	
+k7x	0	0	7	0	
+kkh	0	0	7	0	
+lcz	0	0	7	0	
+lwt	0	0	7	0	
+mtg	0	0	7	0	
+mvq	0	0	7	0	
+n0i	0	0	7	0	
+nbf	0	0	7	0	
+net.minecraft.network.handshake.client.C00Handshake	0	0	7	0	
+net.minecraft.network.login.server.S00PacketDisconnect	0	0	7	0	
+net.minecraft.network.play.client.C00PacketKeepAlive	0	0	7	0	
+net.minecraft.network.play.client.C01PacketChatMessage	0	0	7	0	
+net.minecraft.network.play.client.C19PacketResourcePackStatus	0	0	7	0	
+net.minecraft.network.play.client.C19PacketResourcePackStatus$lun	0	0	7	0	
+net.minecraft.network.play.server.S03PacketTimeUpdate	0	0	7	0	
+net.minecraft.network.play.server.S12PacketEntityVelocity	0	0	7	0	
+net.minecraft.network.play.server.S38PacketPlayerListItem$a1f	0	0	7	0	
+net.minecraft.tileentity.TileEntityCommandBlock	0	0	7	0	
+net.minecraft.tileentity.TileEntityLockable	0	0	7	0	
+net.optifine.expr.IExpressionResolver	0	0	7	0	
+net.optifine.gui.GuiOptionButtonOF	0	0	7	0	
+net.optifine.gui.GuiOptionSliderOF	0	0	7	0	
+net.optifine.reflect.IFieldLocator	0	0	7	0	
+net.optifine.reflect.IResolvable	0	0	7	0	
+net.optifine.util.MathUtils	0	0	7	0	
+ok6	0	0	7	0	
+p1g	0	0	7	0	
+pis	0	0	7	0	
+py1	0	0	7	0	
+ql4	0	0	7	0	
+rap	0	0	7	0	
+rlk	0	0	7	0	
+s60	0	0	7	0	
+sbi	0	0	7	0	
+sso	0	0	7	0	
+syv	0	0	7	0	
+tqh	0	0	7	0	
+ttn	0	0	7	0	
+tv9	0	0	7	0	
+u4_	0	0	7	0	
+u7m$vz9	0	0	7	0	
+uka	0	0	7	0	
+uwf	0	0	7	0	
+wmr	0	0	7	0	
+wob	0	0	7	0	
+wpl	0	0	7	0	
+x_0	0	0	7	0	
+y65$p2a	0	0	7	0	
+ysf$rj4	0	0	7	0	
+yvh	0	0	7	0	
+ywl$iai	0	0	7	0	
+z0w$enz	0	0	7	0	
+rr2	59	59	6	0	GG
+qn4	41	41	6	0	id
+ekz	22	18	6	0	http://snoop.minecraft.net/
+dc5	19	17	6	0	 is
+vxv	17	17	6	0	Range
+xg0	16	16	6	0	xTile
+net.optifine.entity.model.ModelAdapterBiped	14	14	6	0	head
+net.minecraft.world.gen.structure.StructureVillagePieces	13	13	6	0	ViF
+v3p	13	13	6	1	Hypixel
+gvi	12	12	6	0	%d,%d
+net.optifine.entity.model.ModelAdapterQuadruped	12	12	6	0	head
+boo	11	11	6	0	int
+m2h	10	10	6	0	...
+net.minecraft.tileentity.TileEntityHopper	11	10	6	0	Slot
+net.minecraft.tileentity.TileEntityPiston	10	10	6	0	facing
+net.optifine.CustomGuis	9	9	6	0	minecraft
+net.optifine.EmissiveTextures	10	9	6	0	.png
+net.optifine.CustomLoadingScreens	8	8	6	0	.png
+net.optifine.shaders.gui.GuiSlotShaders	11	8	6	0	M5
+n_k	7	7	6	0	Name
+bhs	6	6	6	0	http://
+w69$s0z	6	6	6	0	zip
+hrs	5	5	6	0	, bindMap=
+mlv	5	5	6	0	SkullOwner
+w0s	11	5	6	0	vines
+dqh	5	4	6	0	TNTFuse
+pss	4	4	6	0	\\*
+ity	5	3	6	0	realms
+oik	3	3	6	0	Default value cannot be lower than minimum value!
+snh	5	3	6	0	assets
+amu	3	2	6	0	delay
+aqg	2	2	6	0	_end
+c8g	2	2	6	0	' to registry
+fkf	3	2	6	0	Dark
+net.minecraft.network.play.server.S3FPacketCustomPayload	2	2	6	0	Payload may not be larger than 1048576 bytes
+net.optifine.config.RangeInt	2	2	6	0	min: 
+tbt	2	2	6	0	Chunk Batcher %d
+vd3	2	2	6	0	Could not save the list after adding a user.
+x4j	2	2	6	0	variant
+_6f	0	0	6	0	
+a6o	0	0	6	0	
+adf	0	0	6	0	
+b4o	0	0	6	0	
+b7b$op3	0	0	6	0	
+bun	0	0	6	0	
+bx6	0	0	6	0	
+dge$ilj	0	0	6	0	
+doc	0	0	6	0	
+dxd	0	0	6	0	
+dxs	0	0	6	0	
+eqg	0	0	6	0	
+et9	0	0	6	0	
+ey1	0	0	6	0	
+f35$vyc	0	0	6	0	
+fab	0	0	6	0	
+fgk	0	0	6	0	
+fha	0	0	6	0	
+gkj	0	0	6	0	
+gyu$ekk	0	0	6	0	
+ha9$c4q	0	0	6	0	
+hc0$ic8	0	0	6	0	
+hpk	0	0	6	0	
+hrb	0	0	6	0	
+iez	0	0	6	0	
+ji7	0	0	6	0	
+jp4	0	0	6	0	
+jp4$y3u	0	0	6	0	
+m1p	0	0	6	0	
+mdx	0	0	6	0	
+myw	0	0	6	0	
+n6g	0	0	6	0	
+net.minecraft.network.login.client.C00PacketLoginStart	0	0	6	0	
+net.minecraft.network.play.client.C0APacketAnimation	0	0	6	0	
+net.minecraft.network.play.client.C14PacketTabComplete	0	0	6	0	
+net.minecraft.network.play.server.S07PacketRespawn	0	0	6	0	
+net.minecraft.network.play.server.S19PacketEntityStatus	0	0	6	0	
+net.minecraft.network.play.server.S1BPacketEntityAttach	0	0	6	0	
+net.minecraft.network.play.server.S1DPacketEntityEffect	0	0	6	0	
+net.minecraft.network.play.server.S21PacketChunkData	0	0	6	0	
+net.minecraft.network.play.server.S23PacketBlockChange	0	0	6	0	
+net.minecraft.network.play.server.S27PacketExplosion	0	0	6	0	
+net.minecraft.network.play.server.S29PacketSoundEffect	0	0	6	0	
+net.minecraft.network.play.server.S2FPacketSetSlot	0	0	6	0	
+net.minecraft.network.play.server.S3APacketTabComplete	0	0	6	0	
+net.minecraft.tileentity.TileEntityEndPortal	0	0	6	0	
+net.minecraft.world.gen.structure.StructureMineshaftPieces	0	0	6	0	
+net.optifine.ConnectedTextures	0	0	6	0	
+net.optifine.IRandomEntity	0	0	6	0	
+net.optifine.expr.ParseException	0	0	6	0	
+net.optifine.gui.GuiScreenOF	0	0	6	0	
+net.optifine.http.HttpRequest	0	0	6	0	
+net.optifine.reflect.ReflectorResolver	0	0	6	0	
+net.optifine.shaders.ICustomTexture	0	0	6	0	
+net.optifine.shaders.SVertexBuilder	0	0	6	0	
+net.optifine.shaders.uniform.ShaderUniform1i	0	0	6	0	
+ng2	0	0	6	0	
+npq	0	0	6	0	
+ob6	0	0	6	0	
+owm	0	0	6	0	
+p48	0	0	6	0	
+po4$i4c	0	0	6	0	
+pq9	0	0	6	0	
+prq	0	0	6	6	
+pvq	0	0	6	0	
+py3	0	0	6	0	
+q2b	0	0	6	0	
+r72	0	0	6	0	
+ryn	0	0	6	0	
+s46	0	0	6	0	
+tts$cl0	0	0	6	0	
+tyh$s04	0	0	6	0	
+uio	0	0	6	0	
+v8g	0	0	6	0	
+vas	0	0	6	0	
+vfg	0	0	6	0	
+vme	0	0	6	0	
+vt2$_l8	0	0	6	0	
+wdx	0	0	6	0	
+wis	0	0	6	0	
+wra	0	0	6	0	
+wxb	0	0	6	0	
+xan	0	0	6	0	
+xer	0	0	6	0	
+y1i	0	0	6	0	
+y_h	0	0	6	0	
+yk4	0	0	6	0	
+ym7	0	0	6	0	
+ysf$czd	0	0	6	0	
+z7p	0	0	6	0	
+zn8	0	0	6	0	
+znt	0	0	6	0	
+zuz$fkd	0	0	6	0	
+zuz$hr7	0	0	6	0	
+net.optifine.expr.ExpressionParser	30	30	5	0	Missing end token: 
+net.optifine.http.HttpPipeline	29	28	5	0	GET
+net.optifine.BetterGrass	36	27	5	0	, 
+pjd	22	22	5	0	 L
+net.arikia.dev.drpc.DiscordRPC	24	21	5	0	64
+y3e	17	17	5	0	ESP
+c6g	15	15	5	0	ogg
+gy5	13	13	5	0	title
+t1s	14	13	5	0	file://
+vg2	13	13	5	0	§k
+_r7	11	11	5	0	Not in channel: 
+net.optifine.shaders.config.ShaderOptionSwitch	11	11	5	0	§a
+x_b	11	11	5	0	: 
+net.minecraft.tileentity.TileEntityBrewingStand	11	10	5	0	Slot
+net.optifine.render.Blender	10	10	5	0	add
+net.optifine.CustomLoadingScreen	9	9	5	0	dim
+d3x	8	8	5	0	HP
+jqz	8	8	5	0	Hypixel
+noz	8	8	5	0	name
+r1l$pyk	7	7	5	0	PROMPT
+b06	6	6	5	0	uuid
+j09	6	6	5	0	en_US
+_ie	5	5	5	0	data
+ee_	5	5	5	0	Reach
+gnq	5	5	5	0	AntiVoid
+h19	5	5	5	0	XRay
+net.optifine.Lagometer	5	5	5	0	30
+net.optifine.render.GlBlendState	5	5	5	0	, src: 
+fh6	6	4	5	0	servers
+rty	4	4	5	0	: 
+vqu	7	4	5	0	, 
+wqh	4	4	5	0	mobGriefing
+axk	3	3	5	0	Lock
+b7b	3	3	5	0	variant
+bmp	3	3	5	0	.name
+ca8	3	3	5	0	> 
+kcc	3	3	5	0	: 
+l2c	7	3	5	0	powered
+net.optifine.shaders.config.MacroProcessor	3	3	5	0	.pre
+qpp	3	3	5	0	tmp
+yip	3	3	5	0	contents
+hgu	2	2	5	0	.name
+net.minecraft.network.play.server.S38PacketPlayerListItem	2	2	5	0	action
+net.minecraft.network.play.server.S3EPacketTeams	2	2	5	0	Players cannot be null/empty
+net.optifine.reflect.ReflectorConstructor	2	2	5	0	, params: 
+oi2	2	2	5	0	Nether
+qyg	4	2	5	0	MC|TrSel
+t7e	2	2	5	0	Cancelled
+yoe	2	2	5	0	xx
+net.minecraft.tileentity.TileEntityDropper	2	1	5	0	minecraft:dropper
+nsh	2	1	5	0	explode
+t6d	3	1	5	0	mode
+_r7$ja4	0	0	5	0	
+_r7$rb4	0	0	5	0	
+ace	0	0	5	0	
+b1f$pll	0	0	5	0	
+b_3	0	0	5	0	
+bm4	0	0	5	0	
+bvf	0	0	5	0	
+c1s	0	0	5	0	
+c8u	0	0	5	0	
+cmk	0	0	5	0	
+d3f	0	0	5	0	
+dnm	0	0	5	0	
+ero	0	0	5	0	
+et8	0	0	5	0	
+evg	0	0	5	0	
+f86$ou6	0	0	5	0	
+f8k	0	0	5	0	
+ffn	0	0	5	0	
+fjt	0	0	5	0	
+g5v$nin	0	0	5	0	
+gp3$by5	0	0	5	0	
+grx	0	0	5	0	
+h06	0	0	5	0	
+id4	0	0	5	0	
+ipm	0	0	5	0	
+itn	0	0	5	0	
+jd3	0	0	5	0	
+jgy	0	0	5	0	
+jlc	0	0	5	0	
+jx6$t6o	0	0	5	0	
+l3p	0	0	5	0	
+lg9	0	0	5	0	
+lhs	0	0	5	0	
+lkp	0	0	5	0	
+n3z	0	0	5	0	
+net.minecraft.network.play.client.C03PacketPlayer$C06PacketPlayerPosLook	0	0	5	0	
+net.minecraft.network.play.client.C0CPacketInput	0	0	5	0	
+net.minecraft.network.play.client.C0EPacketClickWindow	0	0	5	0	
+net.minecraft.network.play.client.C10PacketCreativeInventoryAction	0	0	5	0	
+net.minecraft.network.play.client.C18PacketSpectate	0	0	5	0	
+net.minecraft.network.play.server.S01PacketJoinGame	0	0	5	0	
+net.minecraft.network.play.server.S04PacketEntityEquipment	0	0	5	0	
+net.minecraft.network.play.server.S05PacketSpawnPosition	0	0	5	0	
+net.minecraft.network.play.server.S08PacketPlayerPosLook$bdv	0	0	5	0	
+net.minecraft.network.play.server.S0APacketUseBed	0	0	5	0	
+net.minecraft.network.play.server.S0BPacketAnimation	0	0	5	0	
+net.minecraft.network.play.server.S18PacketEntityTeleport	0	0	5	0	
+net.minecraft.network.play.server.S1FPacketSetExperience	0	0	5	0	
+net.minecraft.network.play.server.S22PacketMultiBlockChange	0	0	5	0	
+net.minecraft.network.play.server.S39PacketPlayerAbilities	0	0	5	0	
+net.minecraft.network.play.server.S40PacketDisconnect	0	0	5	0	
+net.minecraft.network.play.server.S42PacketCombatEvent$cwk	0	0	5	0	
+net.minecraft.network.play.server.S44PacketWorldBorder	0	0	5	0	
+net.minecraft.network.play.server.S44PacketWorldBorder$yf2	0	0	5	0	
+net.minecraft.network.play.server.S45PacketTitle	0	0	5	0	
+net.minecraft.network.play.server.S45PacketTitle$_f9	0	0	5	0	
+net.minecraft.tileentity.TileEntityBanner$swh	0	0	5	0	
+net.optifine.Lagometer$TimerNano	0	0	5	0	
+net.optifine.expr.ConstantFloat	0	0	5	0	
+net.optifine.expr.IExpressionFloatArray	0	0	5	0	
+net.optifine.http.HttpPipelineRequest	0	0	5	0	
+net.optifine.model.BlockModelUtils	0	0	5	0	
+net.optifine.shaders.ProgramStage	0	0	5	0	
+net.optifine.shaders.config.ShaderProfile	0	0	5	0	
+net.optifine.shaders.uniform.ShaderUniform1f	0	0	5	0	
+net.optifine.shaders.uniform.ShaderUniform2i	0	0	5	0	
+net.optifine.shaders.uniform.ShaderUniform3f	0	0	5	0	
+net.optifine.shaders.uniform.ShaderUniform4f	0	0	5	0	
+net.optifine.texture.TextureType	0	0	5	0	
+net.optifine.util.EntityUtils	0	0	5	0	
+net.optifine.util.LinkedList$Node	0	0	5	0	
+o85	0	0	5	0	
+o9a	0	0	5	0	
+on1	0	0	5	0	
+oon	0	0	5	0	
+qgq	0	0	5	0	
+qhn	0	0	5	0	
+rno	0	0	5	0	
+rqh	0	0	5	0	
+rv2$nlt$dj6	0	0	5	0	
+s4i	0	0	5	0	
+s4i$tjr	0	0	5	0	
+saq	0	0	5	0	
+sso$s79	0	0	5	0	
+sza$ah7	0	0	5	0	
+t5o	0	0	5	0	
+t_r	0	0	5	0	
+tju	0	0	5	0	
+tp4	0	0	5	0	
+u2m	0	0	5	0	
+u42	0	0	5	0	
+u4_$vxa	0	0	5	0	
+uac	0	0	5	0	
+uga	0	0	5	0	
+uga$aen	0	0	5	0	
+vj3	0	0	5	0	
+vqh	0	0	5	0	
+w56	0	0	5	0	
+wi5	0	0	5	0	
+wkr	0	0	5	0	
+x54	0	0	5	0	
+x65	0	0	5	0	
+y_f	0	0	5	0	
+yab	0	0	5	0	
+ylu	0	0	5	0	
+yyt	0	0	5	0	
+z5t	0	0	5	0	
+z95	0	0	5	0	
+zb0	0	0	5	0	
+zgw	0	0	5	0	
+zuz	0	0	5	0	
+xrf	296	296	4	0	: 
+net.optifine.ConnectedProperties	133	133	4	0	 ,
+net.optifine.CustomItemProperties	120	115	4	0	- 
+ggv	73	65	4	0	: 
+net.optifine.shaders.gui.GuiShaders	49	47	4	0	file://
+ota	54	35	4	0	jaw
+poy$vcg	35	35	4	0	bold
+nn2	32	31	4	0	Direct Login
+g5v	29	28	4	0	Auth token must be valid
+net.optifine.entity.model.anim.ModelVariableType	26	26	4	0	tx
+_0t$fty	21	21	4	0	EAST
+mof	21	21	4	0	Iron
+net.optifine.NaturalTextures	20	20	4	0	 = 
+net.optifine.TextureAnimations	17	17	4	0	to
+net.optifine.http.HttpPipelineConnection	16	16	4	0	http://
+net.optifine.shaders.config.ShaderOptionProfile	19	16	4	0	§c
+net.minecraft.world.gen.structure.StructureNetherBridgePieces	15	15	4	0	NeBS
+bbv	14	14	4	0	ms
+net.optifine.entity.model.CustomEntityModels	14	14	4	0	: 
+net.optifine.entity.model.ModelAdapterMinecart	14	14	4	0	back
+net.optifine.http.HttpUtils	15	14	4	0	http://s.optifine.net
+y3n	16	13	4	0	pages
+net.optifine.CustomBlockLayers	12	12	4	0	solid
+net.optifine.shaders.uniform.UniformType	12	12	4	0	INT
+wmb	12	12	4	0	uuid
+yk0	12	12	4	0	Server: 
+net.optifine.render.VboRegion	11	11	4	0	 <> 
+net.optifine.shaders.BlockAliases	11	11	4	0	layer.
+ib3	10	10	4	0	New
+cya	11	9	4	0	 (NYI)
+sf8	9	9	4	0	layer0
+net.minecraft.tileentity.TileEntityFlowerPot	8	8	4	0	Item
+net.minecraft.world.gen.structure.ComponentScatteredFeaturePieces$Feature	8	8	4	0	HPos
+jr9	7	7	4	0	 §f
+wat	10	7	4	0	SRV
+a1s	6	6	4	0	all
+gvy	7	6	4	0	disconnect.loginFailedInfo
+net.arikia.dev.drpc.DiscordEventHandlers	6	6	4	0	ready
+net.optifine.CustomSky	6	6	4	0	/sky
+net.optifine.util.ArrayUtils	6	6	4	0	, 
+net.optifine.util.Json	6	6	4	0	, array: 
+pfc	6	6	4	0	~ ~
+az4	5	5	4	0	§\\S
+ejb	5	5	4	0	Skin
+hmp	5	5	4	0	Radius
+vvu	5	5	4	0	Chest
+wo8	5	5	4	0	map
+x2p	9	5	4	0	head
+j25	4	4	4	0	via-decoder
+j7s	4	4	4	0	AAC
+net.minecraft.network.play.server.S38PacketPlayerListItem$b1f	4	4	4	0	latency
+q38	4	4	4	0	 and FS 
+axx	3	3	4	0	.png
+bfw	3	3	4	0	r.
+ed3	3	3	4	0	Name / E-Mail:Password
+ev3	3	3	4	0	name
+ixd	3	3	4	0	Step
+k47	3	3	4	0	cube
+m57	3	3	4	0	Size
+net.optifine.render.GlAlphaState	3	3	4	0	, ref: 
+x6m	3	3	4	0	ip
+z2b	3	3	4	0	type
+_0t	3	2	4	0	facing
+i9t	2	2	4	0	pages
+ju6	2	2	4	0	Flux
+n_l	2	2	4	0	Back
+net.minecraft.network.play.server.S2DPacketOpenWindow	2	2	4	0	EntityHorse
+net.minecraft.world.gen.structure.ComponentScatteredFeaturePieces$SwampHut	2	2	4	0	Witch
+net.optifine.GlErrors	2	2	4	0	Suppressed 
+net.optifine.player.PlayerConfigurations	3	2	4	0	.cfg
+nhv	2	2	4	0	.item
+r97	2	2	4	0	STDERR
+txf	2	2	4	0	doEntityDrops
+xq5	2	2	4	0	power
+yfc	2	2	4	0	, pitch=
+wzi	5	1	4	0	powered
+_0w	0	0	4	0	
+_35	0	0	4	0	
+_8w$mc6	0	0	4	0	
+_h4	0	0	4	0	
+_he	0	0	4	0	
+_r7$lw7	0	0	4	0	
+_r7$wl_	0	0	4	0	
+_ur	0	0	4	0	
+a2b	0	0	4	0	
+a7k	0	0	4	0	
+a83	0	0	4	0	
+aev	0	0	4	0	
+ayg	0	0	4	0	
+b68	0	0	4	0	
+b_q	0	0	4	0	
+b_x	0	0	4	0	
+bbe	0	0	4	0	
+bjx	0	0	4	0	
+bq2	0	0	4	0	
+bzt	0	0	4	0	
+c2o	0	0	4	0	
+c6y$v68	0	0	4	0	
+c82	0	0	4	0	
+cbo	0	0	4	0	
+ccy	0	0	4	0	
+cob	0	0	4	0	
+cw1	4	0	4	0	
+d1x	0	0	4	0	
+d55	0	0	4	0	
+d6z	0	0	4	0	
+e6d	0	0	4	0	
+e_y	0	0	4	0	
+eg6	0	0	4	0	
+epq	0	0	4	0	
+et2	0	0	4	0	
+f1j	0	0	4	0	
+f7i	0	0	4	0	
+f_b	0	0	4	0	
+ffi	0	0	4	0	
+fqu	0	0	4	0	
+g2u	0	0	4	0	
+g5v$kot	0	0	4	0	
+gp3$nnc	0	0	4	0	
+gub	0	0	4	0	
+guw	0	0	4	0	
+gyu$ch_	0	0	4	0	
+ha9$o7a	0	0	4	0	
+hdl	0	0	4	0	
+hf2	0	0	4	0	
+hgu$nf1	0	0	4	0	
+hjb	0	0	4	0	
+hkm	0	0	4	0	
+hp4	0	0	4	0	
+hzu$lzb	0	0	4	0	
+i3n	0	0	4	0	
+i_t	0	0	4	0	
+iod$shc	0	0	4	0	
+iq2	0	0	4	0	
+is3	0	0	4	0	
+j83$ip8	0	0	4	0	
+je4	0	0	4	0	
+jwg	0	0	4	0	
+ki2	0	0	4	0	
+kkn	0	0	4	0	
+kr3$ccc	0	0	4	0	
+ksn	0	0	4	0	
+l04	0	0	4	0	
+l_w	0	0	4	0	
+lhm	0	0	4	0	
+lhq	0	0	4	0	
+lib	0	0	4	0	
+lp1	0	0	4	0	
+luh	0	0	4	0	
+m1q	0	0	4	0	
+m2j	0	0	4	0	
+m54	0	0	4	0	
+m6t	0	0	4	0	
+m7g	0	0	4	0	
+mdv	0	0	4	0	
+mpy	0	0	4	0	
+n0_$kmh	0	0	4	0	
+net.minecraft.block.BlockJukebox	0	0	4	0	
+net.minecraft.network.login.client.C01PacketEncryptionResponse	0	0	4	0	
+net.minecraft.network.login.server.S01PacketEncryptionRequest	0	0	4	0	
+net.minecraft.network.login.server.S02PacketLoginSuccess	0	0	4	0	
+net.minecraft.network.login.server.S03PacketEnableCompression	0	0	4	0	
+net.minecraft.network.play.client.C03PacketPlayer$C05PacketPlayerLook	0	0	4	0	
+net.minecraft.network.play.client.C11PacketEnchantItem	0	0	4	0	
+net.minecraft.network.play.client.C12PacketUpdateSign	0	0	4	0	
+net.minecraft.network.play.client.C15PacketClientSettings	0	0	4	0	
+net.minecraft.network.play.server.S00PacketKeepAlive	0	0	4	0	
+net.minecraft.network.play.server.S06PacketUpdateHealth	0	0	4	0	
+net.minecraft.network.play.server.S09PacketHeldItemChange	0	0	4	0	
+net.minecraft.network.play.server.S0CPacketSpawnPlayer	0	0	4	0	
+net.minecraft.network.play.server.S0DPacketCollectItem	0	0	4	0	
+net.minecraft.network.play.server.S0EPacketSpawnObject	0	0	4	0	
+net.minecraft.network.play.server.S0FPacketSpawnMob	0	0	4	0	
+net.minecraft.network.play.server.S10PacketSpawnPainting	0	0	4	0	
+net.minecraft.network.play.server.S11PacketSpawnExperienceOrb	0	0	4	0	
+net.minecraft.network.play.server.S13PacketDestroyEntities	0	0	4	0	
+net.minecraft.network.play.server.S19PacketEntityHeadLook	0	0	4	0	
+net.minecraft.network.play.server.S1CPacketEntityMetadata	0	0	4	0	
+net.minecraft.network.play.server.S1EPacketRemoveEntityEffect	0	0	4	0	
+net.minecraft.network.play.server.S20PacketEntityProperties	0	0	4	0	
+net.minecraft.network.play.server.S24PacketBlockAction	0	0	4	0	
+net.minecraft.network.play.server.S25PacketBlockBreakAnim	0	0	4	0	
+net.minecraft.network.play.server.S26PacketMapChunkBulk	0	0	4	0	
+net.minecraft.network.play.server.S28PacketEffect	0	0	4	0	
+net.minecraft.network.play.server.S2APacketParticles	0	0	4	0	
+net.minecraft.network.play.server.S2CPacketSpawnGlobalEntity	0	0	4	0	
+net.minecraft.network.play.server.S30PacketWindowItems	0	0	4	0	
+net.minecraft.network.play.server.S31PacketWindowProperty	0	0	4	0	
+net.minecraft.network.play.server.S32PacketConfirmTransaction	0	0	4	0	
+net.minecraft.network.play.server.S33PacketUpdateSign	0	0	4	0	
+net.minecraft.network.play.server.S34PacketMaps	0	0	4	0	
+net.minecraft.network.play.server.S36PacketSignEditorOpen	0	0	4	0	
+net.minecraft.network.play.server.S37PacketStatistics	0	0	4	0	
+net.minecraft.network.play.server.S3BPacketScoreboardObjective	0	0	4	0	
+net.minecraft.network.play.server.S3CPacketUpdateScore	0	0	4	0	
+net.minecraft.network.play.server.S3DPacketDisplayScoreboard	0	0	4	0	
+net.minecraft.network.play.server.S41PacketServerDifficulty	0	0	4	0	
+net.minecraft.network.play.server.S42PacketCombatEvent	0	0	4	0	
+net.minecraft.network.play.server.S43PacketCamera	0	0	4	0	
+net.minecraft.network.play.server.S48PacketResourcePackSend	0	0	4	0	
+net.minecraft.network.play.server.S49PacketUpdateEntityNBT	0	0	4	0	
+net.minecraft.network.status.client.C00PacketServerQuery	0	0	4	0	
+net.minecraft.network.status.client.C01PacketPing	0	0	4	0	
+net.minecraft.network.status.server.S00PacketServerInfo	0	0	4	0	
+net.minecraft.network.status.server.S01PacketPong	0	0	4	0	
+net.minecraft.world.gen.structure.MapGenVillage	0	0	4	0	
+net.minecraft.world.gen.structure.StructureMineshaftPieces$1	0	0	4	0	
+net.minecraft.world.gen.structure.StructureNetherBridgePieces$r67	0	0	4	0	
+net.minecraft.world.gen.structure.StructureStrongholdPieces$3	0	0	4	0	
+net.minecraft.world.gen.structure.StructureStrongholdPieces$rlz	0	0	4	0	
+net.minecraft.world.gen.structure.StructureVillagePieces$1	0	0	4	0	
+net.optifine.CustomGuiProperties$EnumContainer	0	0	4	0	
+net.optifine.config.INameGetter	0	0	4	0	
+net.optifine.config.IObjectLocator	0	0	4	0	
+net.optifine.config.VillagerProfession	0	0	4	0	
+net.optifine.entity.model.CustomModelRenderer	0	0	4	0	
+net.optifine.entity.model.IEntityRenderer	0	0	4	0	
+net.optifine.entity.model.anim.IModelResolver	0	0	4	0	
+net.optifine.entity.model.anim.IRenderResolver	0	0	4	0	
+net.optifine.entity.model.anim.ModelUpdater	0	0	4	0	
+net.optifine.expr.IExpressionCached	0	0	4	0	
+net.optifine.expr.IParameters	0	0	4	0	
+net.optifine.expr.TokenType	0	0	4	0	
+net.optifine.gui.IOptionControl	0	0	4	0	
+net.optifine.gui.TooltipProvider	0	0	4	0	
+net.optifine.override.PlayerControllerOF	0	0	4	0	
+net.optifine.player.PlayerConfiguration	0	0	4	0	
+net.optifine.shaders.MultiTexID	0	0	4	0	
+net.optifine.shaders.ShaderUtils	0	0	4	0	
+net.optifine.shaders.config.PropertyDefaultTrueFalse	0	0	4	0	
+net.optifine.shaders.config.ShaderMacro	0	0	4	0	
+net.optifine.shaders.gui.GuiButtonShaderOption	0	0	4	0	
+net.optifine.shaders.uniform.ShaderParameterFloat	0	0	4	0	
+net.optifine.shaders.uniform.ShaderUniformM4	0	0	4	0	
+net.optifine.shaders.uniform.Smoother	0	0	4	0	
+net.optifine.util.CounterInt	0	0	4	0	
+net.optifine.util.TimedEvent	0	0	4	0	
+nie	0	0	4	0	
+nmr	0	0	4	0	
+nmr$pb4	0	0	4	0	
+np1	0	0	4	0	
+nrk$ayj	0	0	4	0	
+nss	0	0	4	0	
+o3g	0	0	4	0	
+o6y	0	0	4	0	
+ody	0	0	4	0	
+off	0	0	4	0	
+ofj	0	0	4	0	
+opd	0	0	4	0	
+ovv	0	0	4	0	
+p6a	0	0	4	0	
+p89	0	0	4	0	
+p_i	0	0	4	0	
+p_k$3	0	0	4	0	
+pe9	0	0	4	0	
+pmi	0	0	4	0	
+pod	0	0	4	0	
+pql	0	0	4	0	
+py5	0	0	4	0	
+q3y	0	0	4	0	
+q4x	0	0	4	0	
+q7m	0	0	4	0	
+qkq	0	0	4	0	
+qoi	0	0	4	0	
+qxu	0	0	4	0	
+r45	0	0	4	0	
+ra2	0	0	4	0	
+rnq	0	0	4	0	
+rv2	0	0	4	0	
+rv2$nlt	0	0	4	0	
+s04	0	0	4	0	
+s24$tx3	0	0	4	0	
+six	0	0	4	0	
+sot	0	0	4	0	
+spe	0	0	4	0	
+spz	0	0	4	0	
+stt	0	0	4	0	
+svo	0	0	4	0	
+t4e	0	0	4	0	
+t6u	0	0	4	0	
+tcf	0	0	4	0	
+tkg	0	0	4	0	
+ts2	0	0	4	0	
+tt7	0	0	4	0	
+tt9	0	0	4	0	
+ttj	0	0	4	0	
+u5i	0	0	4	0	
+u60	0	0	4	0	
+u_a	0	0	4	0	
+uan$flc	0	0	4	0	
+ue5	0	0	4	0	
+uga$l1i	0	0	4	0	
+usw	0	0	4	0	
+utc	0	0	4	0	
+v73	0	0	4	0	
+v7y	0	0	4	0	
+vk3	0	0	4	0	
+vsv	0	0	4	0	
+vtn	0	0	4	0	
+w66	0	0	4	0	
+wd8	0	0	4	0	
+wdc	0	0	4	0	
+wdh	0	0	4	0	
+wsr	0	0	4	0	
+wzg$a95	0	0	4	0	
+xi1$e0c	0	0	4	0	
+xps	0	0	4	0	
+xps$_pg	0	0	4	0	
+xw1$ial	0	0	4	0	
+y43	0	0	4	0	
+y74	0	0	4	0	
+ya9	0	0	4	0	
+yct	0	0	4	0	
+ylx	0	0	4	0	
+yoe$cdm	0	0	4	0	
+yqv$b0p	0	0	4	0	
+yuq	0	0	4	0	
+ywl	0	0	4	0	
+yxa	0	0	4	0	
+yxu	0	0	4	0	
+zbw	0	0	4	0	
+zsh	0	0	4	0	
+zv6	0	0	4	0	
+zvc	0	0	4	0	
+zxu	0	0	4	0	
+zy4	0	0	4	0	
+dj9	143	134	3	0	: 
+net.optifine.player.PlayerItemParser	92	92	3	0	id
+net.optifine.shaders.config.ShaderMacros	74	73	3	0	ati
+a16	57	57	3	0	Name
+net.optifine.entity.model.CustomEntityModelParser	54	54	3	0	: 
+net.optifine.shaders.config.MacroState	36	36	3	0	//
+nlh	36	36	3	0	1.7
+ohl	26	26	3	0	time
+dty	24	24	3	0	left
+iun	25	23	3	0	' 
+net.optifine.entity.model.ModelAdapterSpider	23	23	3	0	head
+lz3	21	21	3	0	ms
+ljv	22	20	3	0	Name
+o80	20	20	3	0	[AD]
+net.optifine.SmartLeaves	19	19	3	0	oak
+net.optifine.model.ModelUtils	19	19	3	0	  
+vpw	19	19	3	0	, 
+zc4	18	18	3	0	source
+buu	27	17	3	0	Failed to check session lock, aborting
+qih	19	17	3	2	https://flux.today/admin/register.php
+j3h	16	16	3	0	pro
+q98	16	16	3	0	Hypixel
+qzx	16	16	3	0	§a
+yod	16	16	3	0	No
+ers	12	12	3	0	Dark
+jgn	12	12	3	0	Base
+n9l	12	12	3	0	None
+n9n	12	12	3	0	AAC
+zar	12	12	3	0	/api new
+fb2	11	11	3	0	blur
+net.optifine.shaders.config.ShaderLine	11	11	3	0	, 
+ti0	11	11	3	0	Size
+utq	11	11	3	0	name
+b92	18	10	3	0	https://account.mojang.com/me/settings
+net.optifine.shaders.config.PropertyDefaultFastFancyOff	10	10	3	0	off
+net.optifine.util.LinkedList	10	10	3	0	, 
+net.optifine.shaders.config.ShaderOptionVariable	9	9	3	0	§a
+pp0	13	9	3	0	sp
+te6	17	9	3	0	Murder
+u_s	9	9	3	0	 (
+vqs	9	9	3	0	Red
+frs	8	8	3	0	 - Fly!
+hy1	8	8	3	0	https://killaura.cn/gc.php
+net.minecraft.world.gen.structure.StructureStrongholdPieces$Crossing	8	8	3	0	leftLow
+net.optifine.shaders.gui.GuiShaderOptions	10	8	3	0	: 
+cf5	7	7	3	0	Red
+ger	28	7	3	0	- 
+kv4	7	7	3	0	 are missing
+syt	7	7	3	0	Fuel
+uix	7	7	3	0	Time
+uxj	7	7	3	0	SkullOwner
+b6k	6	6	3	0	Set
+bym	6	6	3	0	ms
+r1u	6	6	3	0	uuid
+r5w	6	6	3	0	Batching chunks
+ryv	6	6	3	0	pack
+hx2	5	5	3	0	AntiInvis
+inv	5	5	3	0	%d
+net.minecraft.block.BlockJukebox$TileEntityJukebox	5	5	3	0	Record
+net.optifine.ClearWater	5	5	3	0	server
+net.optifine.shaders.config.Property	5	5	3	0	 [
+p7s	6	5	3	0	Slot
+qm3	7	5	3	0	png
+ryb	5	5	3	0	FoV
+all	4	4	3	0	has_bottle_0
+ay5	4	4	3	0	%$1s
+esx	5	4	3	0	id
+g5m	5	4	3	0	time
+gpo	4	4	3	0	, y=
+jig	4	4	3	0	doEntityDrops
+nat	4	4	3	0	o O o
+net.minecraft.world.gen.structure.MapGenStronghold	4	4	3	0	count
+net.optifine.player.CapeUtils	4	4	3	0	http://s.optifine.net/capes/
+r2j	4	4	3	0	Fly
+w4e$d2r	4	4	3	0	left
+w4e$w0e	4	4	3	0	upper
+__a	3	3	3	0	none
+blv	3	3	3	0	 program: 
+buk	6	3	3	0	: 
+jrs	3	3	3	0	.desc
+lpw	3	3	3	0	%$1s
+mp4	3	3	3	0	, style=
+net.minecraft.world.gen.structure.StructureOceanMonument$StartMonument	3	3	3	0	Processed
+net.minecraft.world.gen.structure.StructureStrongholdPieces$PortalRoom	3	3	3	0	Mob
+net.optifine.LightMap	3	3	3	0	CustomColors: 
+net.optifine.shaders.config.ShaderOptionScreen	3	3	3	0	screen.
+net.optifine.shaders.uniform.CustomUniform	3	3	3	0	: 
+po4	3	3	3	0	raw
+pqs	3	3	3	0	Speed
+qus	3	3	3	0	Fov
+v8s	3	3	3	0	, 
+x3i	3	3	3	0	Sword
+xu_	3	3	3	0	Auto Set
+a34	2	2	3	0	map
+ap7	2	2	3	0	Teleport to team member
+ctr	3	2	3	0	Slot
+gjy	2	2	3	0	Teleport to player
+ijg	2	2	3	0	Direct Login
+jjd	2	2	3	0	jeb_
+ki6	2	2	3	0	 into 
+kqv$ju0	2	2	3	0	, model=
+ks6	2	2	3	0	lanServer.title
+lx1	2	2	3	0	Add
+net.minecraft.tileentity.TileEntityComparator	2	2	3	0	OutputSignal
+net.minecraft.tileentity.TileEntityNote	2	2	3	0	note
+net.minecraft.world.gen.structure.MapGenVillage$Start	2	2	3	0	Valid
+net.minecraft.world.gen.structure.StructureMineshaftPieces$Room	2	2	3	0	Entrances
+net.minecraft.world.gen.structure.StructureStrongholdPieces$Stairs	2	2	3	0	Source
+net.optifine.DynamicLight	2	2	3	0	Entity: 
+net.optifine.shaders.config.RenderScale	2	2	3	0	, 
+nw7	5	2	3	0	C 
+o2s	3	2	3	0	logAdminCommands
+p2k	2	2	3	0	triggered
+r50	7	2	3	0	ban-ip
+rnq$ffv	2	2	3	0	, height=
+rq6	2	2	3	0	EntityTag
+szw	4	2	3	0	MC|ItemName
+tdq	2	2	3	0	moisture
+xi0	2	2	3	0	chance
+f3x$ssc	2	1	3	0	.name
+jhy	3	1	3	0	: 
+p2c	1	1	3	0	NoRotate
+r2c	3	1	3	0	options.languageWarning
+roz	2	1	3	0	textures/gui/achievement/achievement_background.png
+th8	3	1	3	0	textures/gui/container/crafting_table.png
+xs7	4	1	3	0	Options
+_0t$1	0	0	3	0	
+_4n	0	0	3	0	
+_98	0	0	3	0	
+_bo	0	0	3	0	
+_d3	0	0	3	0	
+_h2	0	0	3	0	
+_q4	0	0	3	0	
+_r4	0	0	3	0	
+_r7$2	0	0	3	0	
+_z_	0	0	3	0	
+a0r	0	0	3	0	
+a2d	0	0	3	0	
+a8z	0	0	3	0	
+a_k	0	0	3	0	
+as5	0	0	3	0	
+b1f$woh	0	0	3	0	
+b6f	0	0	3	0	
+b7x	0	0	3	0	
+b92$pwe	0	0	3	0	
+bb_	0	0	3	0	
+bc_$fod	0	0	3	0	
+bdv	0	0	3	0	
+blu	0	0	3	0	
+blv$mau	0	0	3	0	
+bnl	0	0	3	0	
+btm	0	0	3	0	
+bvu	0	0	3	0	
+bwg	0	0	3	0	
+c6g$2	0	0	3	0	
+c6g$p0f	0	0	3	0	
+c8o	0	0	3	0	
+cf_	0	0	3	0	
+cfu	0	0	3	1	
+chb	0	0	3	0	
+cjz	0	0	3	0	
+ckl	0	0	3	0	
+cn9	0	0	3	0	
+cny	0	0	3	0	
+cp8	0	0	3	0	
+crp$j3h	0	0	3	0	
+d48	0	0	3	0	
+d9m	0	0	3	0	
+d9p	0	0	3	0	
+da6	0	0	3	0	
+de5	0	0	3	0	
+dul	0	0	3	0	
+dxp	0	0	3	0	
+e76	0	0	3	0	
+ef9$nbw	0	0	3	0	
+eij	0	0	3	0	
+ell	0	0	3	0	
+eln	0	0	3	0	
+eqe	0	0	3	0	
+ewt	0	0	3	0	
+eza	0	0	3	0	
+f35	0	0	3	0	
+f3x$_t2	3	0	3	0	
+f3x$uzf	3	0	3	0	
+faj	0	0	3	0	
+fcl	0	0	3	0	
+fkf$m01	0	0	3	0	
+fna	0	0	3	0	
+foz	2	0	3	0	
+fqj	0	0	3	0	
+ftj	0	0	3	0	
+fwg	0	0	3	0	
+fx6	0	0	3	0	
+fzb	0	0	3	0	
+g7u$lrl	0	0	3	0	
+g_x$ov1	0	0	3	0	
+g_x$pi5	0	0	3	0	
+ga5	0	0	3	0	
+gem	0	0	3	0	
+gjv	0	0	3	0	
+gkx$c2g	0	0	3	0	
+gkx$kyg	0	0	3	0	
+gkx$plo	0	0	3	0	
+gkx$uc2	0	0	3	0	
+gkx$wuo	0	0	3	0	
+gnk	0	0	3	0	
+gp3	0	0	3	0	
+gsz	0	0	3	0	
+gwo$1	0	0	3	0	
+h3g	0	0	3	0	
+h61	0	0	3	0	
+h7i	0	0	3	0	
+h9k	0	0	3	0	
+hux	0	0	3	0	
+hzu$mcs	0	0	3	0	
+hzu$v9h	0	0	3	0	
+i6q	0	0	3	0	
+ia6	0	0	3	0	
+ia_	0	0	3	0	
+idf	0	0	3	0	
+ijy	0	0	3	0	
+imx	0	0	3	0	
+ipt	0	0	3	0	
+ixh	0	0	3	0	
+j8y	0	0	3	0	
+jcs	0	0	3	0	
+jgf	0	0	3	0	
+jlk	0	0	3	0	
+jt3	0	0	3	0	
+jts	0	0	3	0	
+jw8$bre	0	0	3	0	
+jw8$uh0	0	0	3	0	
+jx6	0	0	3	0	
+jxe	0	0	3	0	
+jzl	0	0	3	0	
+k_d	0	0	3	0	
+ka2	0	0	3	0	
+kgd	0	0	3	0	
+kkl	0	0	3	0	
+kqv	0	0	3	0	
+kqz	0	0	3	0	
+kre	0	0	3	0	
+kxi$vxo	0	0	3	0	
+kz7	0	0	3	0	
+l3c	0	0	3	0	
+l3j	0	0	3	0	
+l4f	0	0	3	0	
+l68	0	0	3	0	
+lq7	0	0	3	0	
+lrz	0	0	3	0	
+lte	0	0	3	0	
+lxl	0	0	3	0	
+m21	0	0	3	0	
+mbf	0	0	3	0	
+mew$1	0	0	3	0	
+mew$2	0	0	3	0	
+mf6	3	0	3	0	
+mkf	0	0	3	0	
+mmr	0	0	3	0	
+mwn	0	0	3	0	
+myl	0	0	3	0	
+n0s	0	0	3	0	
+n3b	0	0	3	0	
+n5b	0	0	3	0	
+nce	0	0	3	0	
+net.minecraft.network.play.client.C0DPacketCloseWindow	0	0	3	0	
+net.minecraft.network.play.server.S14PacketEntity$S15PacketEntityRelMove	0	0	3	0	
+net.minecraft.network.play.server.S14PacketEntity$S16PacketEntityLook	0	0	3	0	
+net.minecraft.network.play.server.S14PacketEntity$S17PacketEntityLookMove	0	0	3	0	
+net.minecraft.network.play.server.S20PacketEntityProperties$bw1	0	0	3	0	
+net.minecraft.network.play.server.S21PacketChunkData$qjp	0	0	3	0	
+net.minecraft.network.play.server.S22PacketMultiBlockChange$_to	0	0	3	0	
+net.minecraft.network.play.server.S2EPacketCloseWindow	0	0	3	0	
+net.minecraft.network.play.server.S3CPacketUpdateScore$f8u	0	0	3	0	
+net.minecraft.network.play.server.S46PacketSetCompressionLevel	0	0	3	0	
+net.minecraft.network.play.server.S47PacketPlayerListHeaderFooter	0	0	3	0	
+net.minecraft.tileentity.TileEntityDaylightDetector	0	0	3	0	
+net.minecraft.world.gen.structure.ComponentScatteredFeaturePieces$DesertPyramid	0	0	3	0	
+net.minecraft.world.gen.structure.ComponentScatteredFeaturePieces$JunglePyramid	0	0	3	0	
+net.minecraft.world.gen.structure.MapGenNetherBridge$Start	0	0	3	0	
+net.minecraft.world.gen.structure.MapGenScatteredFeature	0	0	3	0	
+net.minecraft.world.gen.structure.MapGenScatteredFeature$Start	0	0	3	0	
+net.minecraft.world.gen.structure.MapGenStronghold$Start	0	0	3	0	
+net.minecraft.world.gen.structure.StructureMineshaftStart	0	0	3	0	
+net.minecraft.world.gen.structure.StructureNetherBridgePieces$1	0	0	3	0	
+net.minecraft.world.gen.structure.StructureNetherBridgePieces$Crossing3	0	0	3	0	
+net.minecraft.world.gen.structure.StructureNetherBridgePieces$End	0	0	3	0	
+net.minecraft.world.gen.structure.StructureOceanMonument	0	0	3	0	
+net.minecraft.world.gen.structure.StructureOceanMonumentPieces$1	0	0	3	0	
+net.minecraft.world.gen.structure.StructureOceanMonumentPieces$DoubleXRoom	0	0	3	0	
+net.minecraft.world.gen.structure.StructureOceanMonumentPieces$DoubleXYRoom	0	0	3	0	
+net.minecraft.world.gen.structure.StructureOceanMonumentPieces$DoubleYRoom	0	0	3	0	
+net.minecraft.world.gen.structure.StructureOceanMonumentPieces$DoubleYZRoom	0	0	3	0	
+net.minecraft.world.gen.structure.StructureOceanMonumentPieces$DoubleZRoom	0	0	3	0	
+net.minecraft.world.gen.structure.StructureOceanMonumentPieces$EntryRoom	0	0	3	0	
+net.minecraft.world.gen.structure.StructureOceanMonumentPieces$MonumentBuilding	0	0	3	0	
+net.minecraft.world.gen.structure.StructureOceanMonumentPieces$MonumentCoreRoom	0	0	3	0	
+net.minecraft.world.gen.structure.StructureOceanMonumentPieces$Penthouse	0	0	3	0	
+net.minecraft.world.gen.structure.StructureOceanMonumentPieces$SimpleRoom	0	0	3	0	
+net.minecraft.world.gen.structure.StructureOceanMonumentPieces$SimpleTopRoom	0	0	3	0	
+net.minecraft.world.gen.structure.StructureStrongholdPieces$LeftTurn	0	0	3	0	
+net.minecraft.world.gen.structure.StructureVillagePieces$Road	0	0	3	0	
+net.minecraft.world.gen.structure.StructureVillagePieces$Well	0	0	3	0	
+net.optifine.BetterSnow	0	0	3	0	
+net.optifine.BlockPosM$1	0	0	3	0	
+net.optifine.ConnectedTexturesCompact$Dir	0	0	3	0	
+net.optifine.RandomEntity	0	0	3	0	
+net.optifine.config.GlVersion	0	0	3	0	
+net.optifine.config.IParserInt	0	0	3	0	
+net.optifine.config.Weather	0	0	3	0	
+net.optifine.entity.model.CustomEntityRenderer	0	0	3	0	
+net.optifine.entity.model.anim.ModelVariableFloat	0	0	3	0	
+net.optifine.entity.model.anim.RenderEntityParameterBool	0	0	3	0	
+net.optifine.entity.model.anim.RenderEntityParameterFloat	0	0	3	0	
+net.optifine.expr.FunctionBool	0	0	3	0	
+net.optifine.expr.Token	0	0	3	0	
+net.optifine.gui.GuiButtonOF	0	0	3	0	
+net.optifine.http.HttpListener	0	0	3	0	
+net.optifine.http.IFileDownloadListener	0	0	3	0	
+net.optifine.http.IFileUploadListener	0	0	3	0	
+net.optifine.player.CapeImageBuffer	0	0	3	0	
+net.optifine.player.PlayerItemRenderer	0	0	3	0	
+net.optifine.reflect.ReflectorRaw	0	0	3	0	
+net.optifine.render.VboRange	0	0	3	0	
+net.optifine.shaders.SMath	0	0	3	0	
+net.optifine.shaders.SVertexFormat	0	0	3	0	
+net.optifine.shaders.config.ScreenShaderOptions	0	0	3	0	
+net.optifine.shaders.config.ShaderOptionRest	0	0	3	0	
+net.optifine.shaders.gui.GuiButtonDownloadShaders	0	0	3	0	
+net.optifine.shaders.gui.GuiButtonEnumShaderOption	0	0	3	0	
+net.optifine.shaders.uniform.CustomUniforms	0	0	3	0	
+net.optifine.shaders.uniform.ShaderParameterBool	0	0	3	0	
+net.optifine.shaders.uniform.ShaderUniform2f	0	0	3	0	
+net.optifine.shaders.uniform.ShaderUniform4i	0	0	3	0	
+net.optifine.texture.InternalFormat	0	0	3	0	
+net.optifine.texture.PixelFormat	0	0	3	0	
+net.optifine.texture.PixelType	0	0	3	0	
+net.optifine.util.IntegratedServerUtils	0	0	3	0	
+net.optifine.util.IteratorCache	0	0	3	0	
+net.optifine.util.IteratorCache$IteratorReusable	0	0	3	0	
+net.optifine.util.LongSupplier	0	0	3	0	
+net.optifine.util.MathUtilsTest$OPER	0	0	3	0	
+net.optifine.util.NumUtils	0	0	3	0	
+net.optifine.util.SmoothFloat	0	0	3	0	
+net.optifine.util.TileEntityUtils	0	0	3	0	
+njn	0	0	3	0	
+nku	0	0	3	0	
+nv3	0	0	3	0	
+o3w	0	0	3	0	
+o8h	0	0	3	0	
+oc6	0	0	3	0	
+ofe	0	0	3	0	
+ofr	0	0	3	0	
+oin	0	0	3	0	
+oo6	0	0	3	0	
+ooh	0	0	3	0	
+osf$etd	0	0	3	0	
+oza	0	0	3	0	
+p0z	0	0	3	0	
+p2v	3	0	3	0	
+p_k$3$1	0	0	3	0	
+ph6	0	0	3	0	
+pkl	0	0	3	0	
+pnw	0	0	3	0	
+ppl	0	0	3	0	
+pq1	0	0	3	0	
+ps7	0	0	3	0	
+ptg	2	0	3	0	
+pz5	0	0	3	0	
+pz8	0	0	3	0	
+q11	0	0	3	0	
+q41	0	0	3	0	
+q6r	0	0	3	0	
+q7x	0	0	3	0	
+qbw$aj2	0	0	3	0	
+qkp	0	0	3	0	
+qyi	0	0	3	0	
+qyj	0	0	3	0	
+rh0$dzx	0	0	3	0	
+rhy	0	0	3	0	
+s9p	0	0	3	0	
+scc	0	0	3	0	
+scc$yp_	0	0	3	0	
+sf8$hj6	0	0	3	0	
+sj1	0	0	3	0	
+sso$3	0	0	3	0	
+sso$s4o	0	0	3	0	
+stu	0	0	3	0	
+su6	0	0	3	0	
+svk	0	0	3	0	
+swe	0	0	3	0	
+sxx	0	0	3	0	
+syn	0	0	3	0	
+t4j	0	0	3	0	
+t5_	0	0	3	0	
+t5_$ftc	0	0	3	0	
+t5h	0	0	3	0	
+t7e$2	0	0	3	0	
+tm0	0	0	3	0	
+tmv	0	0	3	0	
+tne	0	0	3	0	
+tpd	0	0	3	0	
+u14	0	0	3	0	
+u30	0	0	3	0	
+u7e	0	0	3	0	
+ucr$qah	0	0	3	0	
+uec	0	0	3	0	
+ufx	0	0	3	0	
+ugj	0	0	3	0	
+upl	0	0	3	0	
+ure	0	0	3	0	
+uya	0	0	3	0	
+v1f	0	0	3	0	
+v2w	0	0	3	0	
+vam	0	0	3	0	
+vba	0	0	3	0	
+vt2$1	0	0	3	0	
+vtv	0	0	3	0	
+w0u	0	0	3	0	
+w4q	0	0	3	0	
+w6v	0	0	3	0	
+wem	0	0	3	0	
+wgm	0	0	3	0	
+wgw	0	0	3	0	
+wir	0	0	3	0	
+wir$a8n	0	0	3	0	
+wm2	0	0	3	0	
+wm8	0	0	3	0	
+wrt	0	0	3	0	
+x48	0	0	3	0	
+x_b$rbt	0	0	3	0	
+xa6	0	0	3	0	
+xb4	0	0	3	0	
+xd0	0	0	3	0	
+xid	0	0	3	0	
+xiz	0	0	3	0	
+xps$bk2	0	0	3	0	
+xps$doj	0	0	3	0	
+xps$m6v	0	0	3	0	
+xps$wil	0	0	3	0	
+xw1	0	0	3	0	
+xx_	0	0	3	0	
+xxr	0	0	3	0	
+y0y$wa9	0	0	3	0	
+yc_	0	0	3	0	
+yip$ob3	0	0	3	0	
+yk4$1	0	0	3	0	
+yoe$3	0	0	3	0	
+z3y	0	0	3	0	
+z6x	0	0	3	0	
+z8o	0	0	3	0	
+z_e	0	0	3	0	
+zgs	0	0	3	0	
+zhi	0	0	3	0	
+zhy	0	0	3	0	
+zjj	0	0	3	0	
+zlg	0	0	3	0	
+zt9	0	0	3	0	
+zuh	0	0	3	0	
+zvn	0	0	3	0	
+zy2	0	0	3	0	
+i99	219	158	2	0	+=
+y_h$j2s	156	156	2	0	baseSize
+net.optifine.shaders.config.ShaderPackParser	144	144	2	0	: 
+deo	81	81	2	0	If it weren't for that night, I forgot to buy condoms, you would have been washed down the drain.
+net.optifine.entity.model.ModelAdapterHorse	79	79	2	0	head
+_gu	58	58	2	0	, 
+dy5	55	55	2	0	#-
+yb6	51	51	2	0	e =
+wf6	56	49	2	0	%/
+net.optifine.CustomGuiProperties	48	48	2	0	name
+dn7	65	45	2	0	set
+net.optifine.CustomSkyLayer	43	43	2	0	, 
+ltq	43	42	2	0	 (
+net.minecraft.client.main.Main	42	42	2	0	username
+sms	36	36	2	0	Missing/invalid yggdrasil public key!
+vb2	34	34	2	0	爷是
+bb5	33	33	2	0	Hypixel
+net.optifine.RandomEntityRule	31	31	2	0	, 
+l1j	27	27	2	0	xPos
+la7	27	27	2	0	add
+m1c	25	25	2	0	com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService
+net.optifine.CrashReporter	25	25	2	0	http://optifine.net/crashReport
+net.optifine.entity.model.ModelAdapterDragon	25	25	2	0	jaw
+net.optifine.entity.model.ModelAdapterRabbit	25	25	2	0	body
+dae	23	23	2	0	name
+hxi	23	23	2	0	GVector0
+lcz$ish	22	22	2	0	to
+net.optifine.entity.model.ModelAdapterGuardian	22	22	2	0	eye
+net.optifine.player.PlayerConfigurationParser	23	22	2	0	: 
+p8e	36	22	2	0	set
+pwm	22	22	2	0	GIF
+wdv	38	22	2	0	Air
+net.optifine.shaders.config.ShaderParser	19	19	2	0	gaux
+net.optifine.VersionCheckThread	19	18	2	0	http://optifine.net/version/1.8.9/HD_U.txt
+o72	20	18	2	0	DIM1
+z8h	18	18	2	0	size
+cia	22	17	2	0	move
+dlv	21	17	2	0	fill
+net.optifine.entity.model.ModelAdapterChicken	17	17	2	0	head
+net.optifine.entity.model.ModelAdapterOcelot	17	17	2	0	tail
+net.optifine.entity.model.ModelAdapterWolf	17	17	2	0	wolf
+oow	17	17	2	0	FoV
+pgr	23	17	2	0	set
+gqi	16	16	2	0	https://api.hypixel.net/watchdogStats?key=
+net.optifine.entity.model.ModelAdapterBlaze	16	16	2	0	head
+net.optifine.entity.model.ModelAdapterBook	16	16	2	0	book
+net.optifine.entity.model.ModelAdapterWitch	16	16	2	0	hat
+net.optifine.gui.GuiScreenCapeOF	17	16	2	0	https://optifine.net/capeChange?u=
+s6r	19	16	2	0	...
+v08	21	16	2	0	survival
+c6y$p__	15	15	2	0	Type
+i2n	15	15	2	0	packet
+net.arikia.dev.drpc.DiscordRichPresence	15	15	2	0	state
+net.optifine.entity.model.ModelAdapterCreeper	15	15	2	0	head
+o2n	17	15	2	0	%.2f
+w_7	27	15	2	0	on
+h5k	14	14	2	0	Hypixel
+k_c	14	14	2	0	 §f
+net.optifine.util.FontUtils	14	14	2	0	: 
+rv7	14	14	2	0	Slot
+a9_	13	13	2	0	Mode
+g5v$1	13	13	2	0	stopCallback got failure: %s
+net.optifine.entity.model.ModelAdapterBat	13	13	2	0	bat
+net.optifine.entity.model.ModelAdapterGhast	13	13	2	0	body
+net.optifine.entity.model.ModelAdapterIronGolem	13	13	2	0	head
+net.optifine.entity.model.ModelAdapterSilverfish	13	13	2	0	body
+net.optifine.entity.model.ModelAdapterVillager	13	13	2	0	head
+net.optifine.util.NativeMemory	13	13	2	0	: 
+wty	13	13	2	0	%s§%d§%d
+ybe	13	13	2	0	Bed
+zuz$fkd$rz1	13	13	2	0	id
+zuz$sy1	13	13	2	0	status
+a6k	12	12	2	0	Teleport is only for Hypixel!
+net.optifine.entity.model.ModelAdapterBoat	12	12	2	0	boat
+net.optifine.entity.model.ModelAdapterMagmaCube	12	12	2	0	core
+net.optifine.entity.model.ModelAdapterSquid	12	12	2	0	body
+npf	12	12	2	0	: 
+txt	12	12	2	0	Type
+bni	11	11	2	0	XX
+net.minecraft.world.gen.structure.StructureOceanMonumentPieces	11	11	2	0	OMB
+net.optifine.entity.model.ModelAdapterSnowman	11	11	2	0	body
+o27	11	11	2	0	 §f
+caj	10	10	2	0	#X#
+d3e	10	10	2	0	XXX
+g0_	10	10	2	0	_%s
+jnf	14	10	2	0	keep
+kze	11	10	2	0	memory.
+net.optifine.CustomPanoramaProperties	14	10	2	0	.png
+rqp$zuq	10	10	2	0	parent
+sza$rvk	10	10	2	0	true
+yig$1	10	10	2	0	normal
+aih$vir	9	9	2	0	Type
+bbk	9	9	2	0	[C]
+f_c	9	9	2	0	##
+net.minecraft.world.gen.structure.StructureMineshaftPieces$Corridor	9	9	2	0	hr
+net.optifine.TextureAnimation	10	9	2	0	skip
+net.optifine.entity.model.ModelAdapterArmorStand	9	9	2	0	left
+net.optifine.entity.model.ModelAdapterEnderCrystal	9	9	2	0	cube
+net.optifine.entity.model.ModelAdapterSlime	9	9	2	0	body
+net.optifine.entity.model.ModelAdapterWither	9	9	2	0	body
+net.optifine.gui.TooltipProviderShaderOptions	12	9	2	0	§8
+net.optifine.shaders.EntityAliases	9	9	2	0	Shaders
+net.optifine.shaders.ItemAliases	9	9	2	0	Shaders
+oyp	12	9	2	0	easy
+rxr	13	9	2	0	set
+t3z	14	9	2	0	http://www.minecraft.net/store?source=demo
+z7s	9	9	2	0	Range
+_hv	8	8	2	0	Hypixel
+cg3	8	8	2	0	NCP
+cu3	13	8	2	0	true
+g92$tt8	8	8	2	0	 to 
+l6r	14	8	2	0	give
+n04	14	8	2	0	id
+net.minecraft.world.gen.structure.StructureVillagePieces$Field1	8	8	2	0	CA
+net.optifine.CustomPanorama	8	8	2	0	weight
+net.optifine.entity.model.ModelAdapterBanner	8	8	2	0	top
+net.optifine.entity.model.ModelAdapterChest	8	8	2	0	lid
+net.optifine.entity.model.ModelAdapterChestLarge	8	8	2	0	lid
+net.optifine.entity.model.ModelAdapterEnderChest	8	8	2	0	lid
+p2v$m1_	8	8	2	0	1234
+toy	10	8	2	0	MC|AdvCdm
+xf8	9	8	2	0	: 
+bjr	7	7	2	0	MotionBlur
+dfh	11	7	2	0	all
+j70	11	7	2	0	 = 
+je3	7	7	2	0	hash
+jiz	7	7	2	0	) 
+le7	7	7	2	0	AutoEat
+net.optifine.http.HttpPipelineReceiver	7	7	2	0	; 
+njx	7	7	2	0	Range
+p_7	7	7	2	0	 and 
+qe8	13	7	2	0	rain
+wc0	7	7	2	0	Mode
+wui	10	7	2	0	id
+y3k$mdf	7	7	2	0	uv
+_r7$pg7	6	6	2	0	Error connecting: %s
+aci	6	6	2	0	###
+amc	6	6	2	0	achievement
+bmb	10	6	2	0	detect
+e9p	6	6	2	0	KillAura
+enq	6	6	2	0	true
+f3x$i86	6	6	2	0	.name
+ff2	6	6	2	0	via-encoder
+fkf$afe	6	6	2	0	Dark
+flk$tbc	6	6	2	0	gui
+frx	6	6	2	0	Range
+gp3$by5$sau	6	6	2	0	, y: 
+kr3$_bf	6	6	2	0	name
+net.optifine.RandomEntityProperties	6	6	2	0	skins.
+net.optifine.entity.model.ModelAdapterEndermite	6	6	2	0	body
+net.optifine.entity.model.ModelAdapterSign	6	6	2	0	sign
+net.optifine.http.HttpPipelineSender	6	6	2	0	: 
+olf	6	6	2	0	, staffTotal=
+rnq$p7s	6	6	2	0	, width=
+tkf	6	6	2	0	pack
+vsp	9	6	2	0	force
+x76	6	6	2	0	bd
+z90$m8l	6	6	2	0	Color
+_nc	5	5	2	0	_setting
+_ss$2	5	5	2	0	 y
+bkb	5	5	2	0	Mode
+ejf	9	5	2	0	UUIDMost
+hej$azq	5	5	2	0	scale
+jbn	5	5	2	0	CPS
+kne	15	5	2	0	title
+ldo	5	5	2	0	(\\p{Digit}+)
+lue	11	5	2	0	testforblock
+net.optifine.entity.model.ModelAdapterHeadHumanoid	5	5	2	0	head
+net.optifine.shaders.IteratorAxis	5	5	2	0	Start: 
+net.optifine.shaders.ShaderPackZip	5	5	2	0	..
+net.optifine.shaders.SimpleShaderTexture	5	5	2	0	: 
+o3s$da6	5	5	2	0	, size=
+p7f	6	5	2	0	  
+v39	5	5	2	0	Derp
+yfv	10	5	2	0	menu.shareToLan
+zfe	5	5	2	0	Added 
+zuz$hr7$o3u	5	5	2	0	name
+b1f$mtk	4	4	2	0	: 
+cya$ga4	4	4	2	0	Air
+d4b	7	4	2	0	ips
+da9	8	4	2	0	flush
+djl	4	4	2	0	) 
+ey_	4	4	2	0	 is below server threshold of 
+hqj	4	4	2	0	minecraft:blocks/lava_flow
+htp	4	4	2	0	all
+iun$gy4	4	4	2	0	 (
+ldj$nrq	4	4	2	0	upper
+net.arikia.dev.drpc.DiscordUser	4	4	2	0	username
+net.minecraft.world.gen.structure.StructureStrongholdPieces$Straight	4	4	2	0	Left
+net.minecraft.world.gen.structure.StructureVillagePieces$Field2	4	4	2	0	CA
+net.optifine.entity.model.ModelAdapterHeadSkeleton	4	4	2	0	head
+net.optifine.entity.model.ModelAdapterLeadKnot	4	4	2	0	knot
+net.optifine.entity.model.ModelAdapterWitherSkull	4	4	2	0	head
+net.optifine.gui.GuiChatOF	4	4	2	0	/reloadChunks
+net.optifine.player.PlayerConfigurationReceiver	4	4	2	0	, 
+net.optifine.shaders.config.ShaderOptionSwitchConst	4	4	2	0	 = 
+net.optifine.shaders.config.ShaderOptionVariableConst	4	4	2	0	 = 
+uqt	5	4	2	0	3.3.0
+xs7$ke4	5	4	2	0	: 
+y4w	8	4	2	0	blockdata
+_ss$3	3	3	2	0	 m
+bca	3	3	2	0	APS
+bcl	7	3	2	0	msg
+cn9$zw7	3	3	2	0	'\n
+dez	3	3	2	0	Speed
+ds3	4	3	2	0	selectWorld.enterName
+e97$wov	3	3	2	0	texture
+ehi	4	3	2	0	save-on
+iah	3	3	2	0	Flux
+iyt	3	3	2	0	, 
+jgv	3	3	2	0	§.
+jou	3	3	2	0	Invalid intention 
+kcc$x7y	3	3	2	0	->
+l6m	4	3	2	0	save-off
+lnz	3	3	2	0	, 
+mnz	4	3	2	0	addServer.enterIp
+net.minecraft.world.gen.structure.ComponentScatteredFeaturePieces	3	3	2	0	TeDP
+net.optifine.NaturalProperties	3	3	2	0	4F
+net.optifine.reflect.FieldLocatorType	3	3	2	0	.(type: 
+net.optifine.shaders.CustomTexture	3	3	2	0	, path: 
+net.optifine.shaders.CustomTextureLocation	3	3	2	0	, location: 
+net.optifine.util.IteratorCache$IteratorReadOnly	3	3	2	0	remove
+ni3	3	3	2	0	Error creating shader: 
+rws	3	3	2	0	intact
+tu9	3	3	2	0	 #X
+vdp	3	3	2	0	player
+wsc$fag	3	3	2	0	: 
+wv6	3	3	2	0	ObsidianRemover
+yig$6	3	3	2	0	all
+yig$7	3	3	2	0	all
+z90	3	3	2	0	###
+zsh$ccy	3	3	2	0	anvil
+_89	2	2	2	0	Features
+_r7$1	2	2	2	0	Error shutting down Twith chat: %s
+a2s$g9w	2	2	2	0	.name
+a59	2	2	2	0	AAC
+a9u	2	2	2	0	Normal
+al9$tup	2	2	2	0	Next Page
+alb	2	2	2	0	Save
+aua	6	2	2	0	kick
+b1t	2	2	2	0	Fly
+bc4	6	2	2	0	testfor
+br6	2	2	2	0	OK
+bs_	2	2	2	0	Skip
+c7a	7	2	2	0	tp
+c7z	5	2	2	0	commands.generic.notFound
+cdv	2	2	2	0	Press any key to bind 
+cqt	2	2	2	0	 ?
+dio	2	2	2	0	Fly
+drn	4	2	2	0	list
+e3q	2	2	2	0	, 
+e9a	2	2	2	0	Old
+ef9$e53	2	2	2	0	true
+egi	2	2	2	0	Speed
+eiu	2	2	2	0	Stronghold
+f2j	2	2	2	0	Damage
+fi5	2	2	2	0	Speed
+fy3	2	2	2	0	, 
+hcl	6	2	2	0	give
+hv2$1	2	2	2	0	model
+j2h	4	2	2	0	tellraw
+j_r	2	2	2	0	Speed
+jc0	2	2	2	0	New
+jrc	2	2	2	0	Full
+ka6	2	2	2	0	Don't know how to add 
+llv	2	2	2	0	Speed
+lx0	2	2	2	0	Dev
+m6w	4	2	2	0	playsound
+mjv	2	2	2	0	wet
+mr_	2	2	2	0	),
+net.arikia.dev.drpc.DiscordRichPresence$Builder	2	2	2	0	Image key must not be null when assigning a hover text.
+net.arikia.dev.drpc.OSUtil	3	2	2	0	mac
+net.minecraft.world.gen.structure.StructureMineshaftPieces$Cross	2	2	2	0	tf
+net.minecraft.world.gen.structure.StructureStrongholdPieces$Corridor	2	2	2	0	Steps
+net.minecraft.world.gen.structure.StructureVillagePieces$House4Garden	2	2	2	0	Terrace
+net.minecraft.world.gen.structure.StructureVillagePieces$Path	2	2	2	0	Length
+net.optifine.Mipmaps	2	2	2	0	, dim: 
+net.optifine.entity.model.ModelAdapterMinecartMobSpawner	2	2	2	0	spawner_minecart
+net.optifine.entity.model.ModelAdapterMinecartTnt	2	2	2	0	tnt_minecart
+net.optifine.entity.model.ModelAdapterSheepWool	2	2	2	0	sheep_wool
+net.optifine.entity.model.anim.ModelResolver	2	2	2	0	this
+net.optifine.expr.TokenParser	2	2	2	0	', in: 
+net.optifine.reflect.FieldLocatorTypes	2	2	2	0	(Reflector) Field not found: 
+net.optifine.shaders.ProgramStack	2	2	2	0	Program stack empty
+net.optifine.shaders.config.MacroExpressionResolver	2	2	2	0	defined_
+net.optifine.shaders.uniform.ShaderExpressionResolver	2	2	2	0	BIOME_
+net.optifine.util.ChunkUtils	2	2	2	0	hasEntities
+o3s	3	2	2	0	https://api.xinchen.space/acgurl/api.php?return=json
+obh	2	2	2	0	Flux
+off$sp0	3	2	2	0	> 
+omw	5	2	2	0	gameMode.
+orn	2	2	2	0	, 
+p_v	6	2	2	0	ban
+par	7	2	2	0	clear
+q6i	2	2	2	0	Phase
+s51	2	2	2	0	(?s).
+s90	7	2	2	0	xp
+slo	2	2	2	0	Flux
+so1	2	2	2	0	DIM1
+sq8	2	2	2	0	Swift
+sso$1	2	2	2	0	: 
+t7e$2$1	2	2	2	0	§1
+tnf	2	2	2	0	Speed
+uf2	2	2	2	0	Hypixel
+uw3	2	2	2	0	Speed
+vbi	2	2	2	0	Speed
+w4k	2	2	2	0	WTF
+wmo	2	2	2	0	Old
+xcu	2	2	2	0	Phase
+xt9	2	2	2	0	Normal
+yig$2	2	2	2	0	normal
+ynn	2	2	2	0	Glide
+yy6	2	2	2	0	XRay
+yz4	2	2	2	0	Fly
+z_c	2	2	2	0	Timer
+zlr	2	2	2	0	Fly
+zv4	2	2	2	0	Legit
+a6v	4	1	2	0	publish
+cxp	2	1	2	0	Stronghold
+ego	3	1	2	0	demo.day.
+ek8	4	1	2	0	say
+epk	1	1	2	0	Error while parsing: %s
+fo1	4	1	2	0	spawnpoint
+gd5	3	1	2	0	seed
+grn	3	1	2	0	SSL
+jtj	4	1	2	0	me
+k8i	4	1	2	0	setworldspawn
+ln1	4	1	2	0	setidletimeout
+rt5	8	1	2	0	chat.link.confirmTrusted
+rtf	4	1	2	0	help
+t48	5	1	2	0	op
+voj	5	1	2	0	deop
+vvn	5	1	2	0	pardon-ip
+w69$1	2	1	2	0	.zip
+weu	4	1	2	0	kill
+xlf	3	1	2	0	stop
+zd0	5	1	2	0	pardon
+zt5	3	1	2	0	toggledownfall
+_40	0	0	2	0	
+_6e	0	0	2	0	
+_7e	0	0	2	0	
+_af	0	0	2	0	
+_co	0	0	2	0	
+_e6	0	0	2	0	
+_ez	0	0	2	0	
+_f3$1	0	0	2	0	
+_fi	0	0	2	0	
+_fn	0	0	2	0	
+_h4$1	0	0	2	0	
+_o9	0	0	2	0	
+_sc	0	0	2	0	
+_ss$1	0	0	2	0	
+_ss$4	0	0	2	0	
+_ts	0	0	2	0	
+_u_	0	0	2	0	
+_um	0	0	2	0	
+_y4	0	0	2	0	
+_z_$1	0	0	2	0	
+_zk	0	0	2	0	
+a01	0	0	2	0	
+a0t$1	0	0	2	0	
+a0t$2	0	0	2	0	
+a0t$3	0	0	2	0	
+a0t$4	0	0	2	0	
+a2s	0	0	2	0	
+a30	0	0	2	0	
+a4v$1	0	0	2	0	
+a6k$1	0	0	2	0	
+a7y	0	0	2	0	
+a9u$ja6	0	0	2	0	
+a_t$1	0	0	2	0	
+a_t$f0b	0	0	2	0	
+a_t$vbq	0	0	2	0	
+a_t$vef	0	0	2	0	
+aby	0	0	2	0	
+aev$1	0	0	2	0	
+afi	0	0	2	0	
+ahp	0	0	2	0	
+ak2	0	0	2	0	
+al4	0	0	2	0	
+al9$1	0	0	2	0	
+al9$oge	0	0	2	0	
+aog$1	0	0	2	0	
+ap7$wzr	0	0	2	0	
+aqz	0	0	2	0	
+asg	0	0	2	0	
+atg$1	0	0	2	0	
+aud	0	0	2	0	
+aue	0	0	2	0	
+aut	0	0	2	0	
+ax_	0	0	2	0	
+axx$_a1	0	0	2	0	
+ay1	0	0	2	0	
+b	0	0	2	0	
+b00	0	0	2	0	
+b1f	0	0	2	0	
+b89	0	0	2	0	
+b8t	0	0	2	0	
+b92$1	0	0	2	0	
+b_l	0	0	2	0	
+bbv$1	0	0	2	0	
+bdo$1	0	0	2	0	
+bdo$2	0	0	2	0	
+be7$1	0	0	2	0	
+bgc	0	0	2	0	
+bhs$1	0	0	2	0	
+bmb$1	0	0	2	0	
+bmn	0	0	2	0	
+bmu	0	0	2	0	
+bpf	0	0	2	0	
+bpv	0	0	2	0	
+btc$1	0	0	2	0	
+buk$rcg	0	0	2	0	
+bvm	0	0	2	0	
+bvu$1	0	0	2	0	
+c05$10	0	0	2	0	
+c05$11	0	0	2	0	
+c05$12	0	0	2	0	
+c05$13	0	0	2	0	
+c05$14	0	0	2	0	
+c05$15	0	0	2	0	
+c05$16	0	0	2	0	
+c05$17	0	0	2	0	
+c05$18	0	0	2	0	
+c05$2	0	0	2	0	
+c05$3	0	0	2	0	
+c05$4	0	0	2	0	
+c05$5	0	0	2	0	
+c05$6	0	0	2	0	
+c05$7	0	0	2	0	
+c05$8	0	0	2	0	
+c05$9	0	0	2	0	
+c0c	0	0	2	0	
+c5d	0	0	2	0	
+c5k	0	0	2	0	
+c5z$1	0	0	2	0	
+c6g$1	0	0	2	0	
+c6g$1$1	0	0	2	0	
+c6g$2$1	0	0	2	0	
+c6y$mhn	0	0	2	0	
+c6y$z8d	0	0	2	0	
+c7q	0	0	2	0	
+c8u$1	0	0	2	0	
+c9p$1	0	0	2	0	
+c9p$kdw	0	0	2	0	
+c9p$rw9	0	0	2	0	
+c9p$tyn	0	0	2	0	
+c_0	0	0	2	0	
+cbc$1	0	0	2	0	
+ccd	0	0	2	0	
+ccm$1	0	0	2	0	
+ceu	0	0	2	0	
+cho	0	0	2	0	
+cia$trw	0	0	2	0	
+cjz$ro0	0	0	2	0	
+cjz$s_e	0	0	2	0	
+ckj	0	0	2	0	
+cmg	0	0	2	0	
+cog$1	0	0	2	0	
+cog$2	0	0	2	0	
+cog$3	0	0	2	0	
+cog$4	0	0	2	0	
+cog$5	0	0	2	0	
+cog$6	0	0	2	0	
+cog$7	0	0	2	0	
+cog$8	0	0	2	0	
+cog$9	0	0	2	0	
+cqp	0	0	2	0	
+crb$1	0	0	2	0	
+crp$1	0	0	2	0	
+crp$2	0	0	2	0	
+cu5	0	0	2	0	
+cuj	0	0	2	0	
+cum	0	0	2	0	
+cvu	0	0	2	0	
+cw9	0	0	2	0	
+cz3	0	0	2	0	
+d1f$1	0	0	2	0	
+d1x$1	0	0	2	0	
+d2q$1	0	0	2	0	
+d53	0	0	2	0	
+d8w	0	0	2	0	
+dak$a7s	0	0	2	0	
+dbu$1	0	0	2	0	
+dbu$2	0	0	2	0	
+dbu$3	0	0	2	0	
+dge$_fz	0	0	2	0	
+dge$dsq	0	0	2	0	
+dge$g4m	0	0	2	0	
+dge$y05	0	0	2	0	
+dgy	0	0	2	0	
+dj1	0	0	2	0	
+dj9$1	0	0	2	0	
+doq	0	0	2	0	
+dr9$x0j	0	0	2	0	
+dug$1	0	0	2	0	
+dug$mdz	0	0	2	0	
+dvc	0	0	2	0	
+dyn	0	0	2	0	
+dyx	0	0	2	0	
+e0q	0	0	2	0	
+e0x$1	2	0	2	0	
+e0x$2	0	0	2	0	
+e0x$3	2	0	2	0	
+e0x$4	3	0	2	0	
+e1i$1	0	0	2	0	
+e1i$2	0	0	2	0	
+e1i$3	0	0	2	0	
+e1i$4	0	0	2	0	
+e1i$5	0	0	2	0	
+e1i$6	0	0	2	0	
+e1i$7	0	0	2	0	
+e1s	0	0	2	0	
+e3x	0	0	2	0	
+e6p	0	0	2	0	
+eax	0	0	2	0	
+ebo	0	0	2	0	
+ecc	0	0	2	0	
+ecl	0	0	2	0	
+eel	0	0	2	0	
+eep	0	0	2	0	
+ejl	0	0	2	0	
+ekz$1	0	0	2	0	
+ele	0	0	2	0	
+ell$1	0	0	2	0	
+ell$bu8	0	0	2	0	
+enc	0	0	2	0	
+epi	0	0	2	0	
+epx	0	0	2	0	
+eqg$1	0	0	2	0	
+ers$lgy	0	0	2	0	
+esx$1	0	0	2	0	
+esx$niw	0	0	2	0	
+esx$v28	0	0	2	0	
+et9$1	0	0	2	0	
+etg	0	0	2	0	
+etr	0	0	2	0	
+etr$mrr	0	0	2	0	
+ex5	0	0	2	0	
+ey1$d08	0	0	2	0	
+f1w	0	0	2	0	
+f26	0	0	2	0	
+f3x$_t2$1	0	0	2	0	
+f3x$mti	0	0	2	0	
+f3x$uzf$1	0	0	2	0	
+f5a$yqd	0	0	2	0	
+f5f	0	0	2	0	
+f64	0	0	2	0	
+f64$nz8	0	0	2	0	
+f_9	0	0	2	0	
+f_b$1	0	0	2	0	
+fcu$k9f	0	0	2	0	
+fdz	0	0	2	0	
+fhq	0	0	2	0	
+fkf$r79	0	0	2	0	
+flk$1	0	0	2	0	
+fln$1	0	0	2	0	
+fln$2	0	0	2	0	
+fln$3	0	0	2	0	
+fni	0	0	2	0	
+fp0	0	0	2	0	
+fup	0	0	2	0	
+fvs	0	0	2	0	
+fvs$r_x	0	0	2	0	
+fwm	0	0	2	0	
+fyk$r1f	0	0	2	0	
+g0_$1	0	0	2	0	
+g0q	0	0	2	0	
+g2r	0	0	2	0	
+g5v$2	0	0	2	0	
+g5v$3	0	0	2	0	
+g7u$qmc	0	0	2	0	
+g92$1	0	0	2	0	
+g92$2	0	0	2	0	
+g_3$1	0	0	2	0	
+g_p	0	0	2	0	
+g_x$1	0	0	2	0	
+g_x$lo3	0	0	2	0	
+g_x$qru	0	0	2	0	
+ga_	0	0	2	0	
+gem$kog	0	0	2	0	
+gem$s7_	0	0	2	0	
+gg1	0	0	2	0	
+gji	0	0	2	0	
+gjy$1	0	0	2	0	
+gkj$1	0	0	2	0	
+gkx	0	0	2	0	
+glx	0	0	2	0	
+gmu$1	0	0	2	0	
+gp3$ac5	0	0	2	0	
+gp3$edv	0	0	2	0	
+grj	0	0	2	0	
+grn$1	0	0	2	0	
+gse$1	0	0	2	0	
+gsz$1	0	0	2	0	
+gsz$2	0	0	2	0	
+gt6	0	0	2	0	
+gvy$1	0	0	2	0	
+gwo$1$1	0	0	2	0	
+gyh	0	0	2	0	
+gyl	0	0	2	0	
+gyu$1	0	0	2	0	
+gzo	0	0	2	0	
+h16	0	0	2	0	
+h16$bzx	0	0	2	0	
+h3t	0	0	2	0	
+h3t$wlo	0	0	2	0	
+h4x	0	0	2	0	
+h6x	0	0	2	0	
+h8s	0	0	2	0	
+h8s$1	0	0	2	0	
+h9u	0	0	2	0	
+h_0	0	0	2	0	
+h_h	0	0	2	0	
+h_h$xib	0	0	2	0	
+h_q	0	0	2	0	
+h_s$dpn	0	0	2	0	
+h_s$irg	0	0	2	0	
+h_s$s03	0	0	2	0	
+h_s$wcx	0	0	2	0	
+ha9$1	0	0	2	0	
+hc0$_cb	0	0	2	0	
+hc0$bdm	0	0	2	0	
+hc0$ork	0	0	2	0	
+hc0$yln	0	0	2	0	
+hc9	0	0	2	0	
+hdl$i7d	0	0	2	0	
+hdl$i7d$d63	0	0	2	0	
+hdl$kfk	0	0	2	0	
+he2	0	0	2	0	
+he9	0	0	2	0	
+heq	0	0	2	0	
+hey	0	0	2	0	
+hey$1	0	0	2	0	
+hgm	0	0	2	0	
+hh3	0	0	2	0	
+hij	0	0	2	0	
+hj4	0	0	2	0	
+hkm$1	0	0	2	0	
+hou	0	0	2	0	
+hq2	0	0	2	0	
+hru	0	0	2	0	
+hsd	0	0	2	0	
+hts	0	0	2	0	
+hu6	0	0	2	0	
+hv0$1	0	0	2	0	
+hv0$2	0	0	2	0	
+hv0$3	0	0	2	0	
+hv0$4	0	0	2	0	
+hv0$5	0	0	2	0	
+hv0$6	0	0	2	0	
+hv0$t04	0	0	2	0	
+hv2$2	0	0	2	0	
+hz4	0	0	2	0	
+hzu$1	0	0	2	0	
+hzu$_0v	0	0	2	0	
+hzu$amh	0	0	2	0	
+hzu$cxb	0	0	2	0	
+hzu$i8u	0	0	2	0	
+hzu$igu	0	0	2	0	
+hzu$iia	0	0	2	0	
+hzu$jkh	0	0	2	0	
+hzu$loj	0	0	2	0	
+hzu$n87	0	0	2	0	
+hzu$nhz	0	0	2	0	
+hzu$odz	0	0	2	0	
+hzu$oe1	0	0	2	0	
+hzu$sog	0	0	2	0	
+hzu$w2h	0	0	2	0	
+i1j$t8b	0	0	2	0	
+i2h$1	0	0	2	0	
+i2h$2	0	0	2	0	
+i2h$3	0	0	2	0	
+i2h$4	0	0	2	0	
+i6g	0	0	2	0	
+i96	0	0	2	0	
+i9k	0	0	2	0	
+ia2$1	0	0	2	0	
+ia6$tzw	0	0	2	0	
+icb	0	0	2	0	
+idu	0	0	2	0	
+if1$so3	0	0	2	0	
+ihc	0	0	2	0	
+ijg$1	0	0	2	0	
+ild	0	0	2	0	
+ilu	0	0	2	0	
+iod	0	0	2	0	
+iod$1	0	0	2	0	
+iq7$1	0	0	2	0	
+iq7$2	0	0	2	0	
+iq7$3	0	0	2	0	
+ira	0	0	2	0	
+iry	0	0	2	0	
+is3$1	0	0	2	0	
+is3$2	0	0	2	0	
+itf	0	0	2	0	
+iw0	0	0	2	0	
+iy7	0	0	2	0	
+iyr$rw6	0	0	2	0	
+j0s$1	0	0	2	0	
+j0x	0	0	2	0	
+j1k	0	0	2	0	
+j3k	0	0	2	0	
+j3n	0	0	2	0	
+j61	0	0	2	0	
+j66	0	0	2	0	
+j66$1	0	0	2	0	
+j7z$fxo	0	0	2	0	
+j83$1	0	0	2	0	
+j91$hqw	0	0	2	0	
+jc0$a_8	0	0	2	0	
+jcy	0	0	2	0	
+je4$b3l	0	0	2	0	
+jev	0	0	2	0	
+jgv$1	0	0	2	0	
+jk2	0	0	2	0	
+jkl	0	0	2	0	
+jkl$bgl	0	0	2	0	
+jm4	0	0	2	0	
+jnq$1	0	0	2	0	
+jou$1	0	0	2	0	
+jpt$1	0	0	2	0	
+ju8$1	0	0	2	0	
+jun	0	0	2	0	
+jux$1	0	0	2	0	
+jux$2	0	0	2	0	
+jux$3	0	0	2	0	
+jux$4	0	0	2	0	
+jw8	0	0	2	0	
+jwq	0	0	2	0	
+jws	0	0	2	0	
+jx6$1	0	0	2	0	
+jxe$1	0	0	2	0	
+k0_$1	0	0	2	0	
+k0_$2	0	0	2	0	
+k0_$3	0	0	2	0	
+k0_$4	0	0	2	0	
+k0_$gup	0	0	2	0	
+k1b	0	0	2	0	
+k35	0	0	2	0	
+k3h	0	0	2	0	
+k6s$1	0	0	2	0	
+k6s$2	0	0	2	0	
+kh3$1	0	0	2	0	
+kh3$2	0	0	2	0	
+kh3$3	0	0	2	0	
+kh3$4	0	0	2	0	
+khh	0	0	2	0	
+ki2$cqs	0	0	2	0	
+ki2$rji	0	0	2	0	
+ki2$u_7	0	0	2	0	
+kja	0	0	2	0	
+kle	0	0	2	0	
+kng	0	0	2	0	
+kng$kee	0	0	2	0	
+ko7	0	0	2	0	
+kpb	0	0	2	0	
+kpb$em2	0	0	2	0	
+kpj	0	0	2	0	
+kq4	0	0	2	0	
+kqv$nva	0	0	2	0	
+kr3$1	0	0	2	0	
+kr3$2	0	0	2	0	
+kre$1	0	0	2	0	
+ks2	0	0	2	0	
+ks2$_fy	0	0	2	0	
+kta	0	0	2	0	
+kta$1	0	0	2	0	
+kxi$ac3	0	0	2	0	
+kxi$lvy	0	0	2	0	
+kxi$m6s	0	0	2	0	
+kxi$pn4	0	0	2	0	
+kxi$qhn	0	0	2	0	
+kxi$x9z	0	0	2	0	
+kxi$xkd	0	0	2	0	
+l1j$t0b	0	0	2	0	
+l2c$1	0	0	2	0	
+l6r$1	0	0	2	0	
+l76	0	0	2	0	
+l8w	0	0	2	0	
+laa	0	0	2	0	
+lc5$1	0	0	2	0	
+lcz$1	0	0	2	0	
+ldf	0	0	2	0	
+lgo	0	0	2	0	
+lhs$1	0	0	2	0	
+ltq$1	0	0	2	0	
+lu_	0	0	2	0	
+lur	0	0	2	0	
+lx1$1	0	0	2	0	
+lxj	0	0	2	1	
+m03	0	0	2	0	
+m1p$1	0	0	2	0	
+m2e	0	0	2	0	
+m2h$1	0	0	2	0	
+m3q	0	0	2	0	
+m8m	0	0	2	0	
+mew$1$1	0	0	2	0	
+mew$2$1	0	0	2	0	
+mg1	0	0	2	0	
+mgt	0	0	2	0	
+mi2	0	0	2	0	
+mi8	0	0	2	0	
+mi_	0	0	2	0	
+ml0	0	0	2	0	
+ml4	0	0	2	0	
+ml4$heo	0	0	2	0	
+mlb$1	0	0	2	0	
+mlk$1	0	0	2	0	
+mlk$2	0	0	2	0	
+mlk$3	0	0	2	0	
+mlk$4	0	0	2	0	
+mmv	0	0	2	0	
+mn8	0	0	2	0	
+mnc	0	0	2	0	
+moh$1	0	0	2	0	
+moh$2	0	0	2	0	
+msg	0	0	2	0	
+mtl$1	0	0	2	0	
+mtl$_2w	0	0	2	0	
+mwn$pt6	0	0	2	0	
+myl$lwi	0	0	2	0	
+myl$v3y	0	0	2	0	
+mzo	0	0	2	0	
+n06	0	0	2	0	
+n1d	0	0	2	0	
+n43	0	0	2	0	
+n4e	0	0	2	0	
+n5e	0	0	2	0	
+n_5	0	0	2	0	
+n_k$1	0	0	2	0	
+n_l$cl5	0	0	2	0	
+nah	0	0	2	0	
+neh	0	0	2	0	
+nem	0	0	2	0	
+net.arikia.dev.drpc.DiscordEventHandlers$Builder	0	0	2	0	
+net.arikia.dev.drpc.DiscordRPC$DLL	0	0	2	0	
+net.arikia.dev.drpc.DiscordRPC$DiscordReply	0	0	2	0	
+net.minecraft.client.main.Main$1	0	0	2	0	
+net.minecraft.client.main.Main$2	0	0	2	0	
+net.minecraft.network.play.server.S38PacketPlayerListItem$1	0	0	2	0	
+net.minecraft.network.play.server.S42PacketCombatEvent$1	0	0	2	0	
+net.minecraft.network.play.server.S44PacketWorldBorder$1	0	0	2	0	
+net.minecraft.tileentity.TileEntityChest$1	0	0	2	0	
+net.minecraft.tileentity.TileEntityCommandBlock$1	0	0	2	0	
+net.minecraft.tileentity.TileEntityMobSpawner$1	0	0	2	0	
+net.minecraft.tileentity.TileEntityPiston$1	0	0	2	0	
+net.minecraft.tileentity.TileEntitySign$1	0	0	2	0	
+net.minecraft.tileentity.TileEntitySign$2	0	0	2	0	
+net.minecraft.world.gen.structure.ComponentScatteredFeaturePieces$1	0	0	2	0	
+net.minecraft.world.gen.structure.ComponentScatteredFeaturePieces$JunglePyramid$d3n	0	0	2	0	
+net.minecraft.world.gen.structure.MapGenNetherBridge	0	0	2	0	
+net.minecraft.world.gen.structure.StructureMineshaftPieces$Stairs	0	0	2	0	
+net.minecraft.world.gen.structure.StructureNetherBridgePieces$Corridor	0	0	2	0	
+net.minecraft.world.gen.structure.StructureNetherBridgePieces$Corridor2	0	0	2	0	
+net.minecraft.world.gen.structure.StructureNetherBridgePieces$Corridor3	0	0	2	0	
+net.minecraft.world.gen.structure.StructureNetherBridgePieces$Corridor4	0	0	2	0	
+net.minecraft.world.gen.structure.StructureNetherBridgePieces$Corridor5	0	0	2	0	
+net.minecraft.world.gen.structure.StructureNetherBridgePieces$Crossing	0	0	2	0	
+net.minecraft.world.gen.structure.StructureNetherBridgePieces$Crossing2	0	0	2	0	
+net.minecraft.world.gen.structure.StructureNetherBridgePieces$Entrance	0	0	2	0	
+net.minecraft.world.gen.structure.StructureNetherBridgePieces$NetherStalkRoom	0	0	2	0	
+net.minecraft.world.gen.structure.StructureNetherBridgePieces$Stairs	0	0	2	0	
+net.minecraft.world.gen.structure.StructureNetherBridgePieces$Straight	0	0	2	0	
+net.minecraft.world.gen.structure.StructureNetherBridgePieces$Throne	0	0	2	0	
+net.minecraft.world.gen.structure.StructureOceanMonumentPieces$WingRoom	0	0	2	0	
+net.minecraft.world.gen.structure.StructureOceanMonumentPieces$csp	0	0	2	0	
+net.minecraft.world.gen.structure.StructureOceanMonumentPieces$g72	0	0	2	0	
+net.minecraft.world.gen.structure.StructureOceanMonumentPieces$kf4	0	0	2	0	
+net.minecraft.world.gen.structure.StructureOceanMonumentPieces$qhd	0	0	2	0	
+net.minecraft.world.gen.structure.StructureOceanMonumentPieces$qtx	0	0	2	0	
+net.minecraft.world.gen.structure.StructureOceanMonumentPieces$ssb	0	0	2	0	
+net.minecraft.world.gen.structure.StructureOceanMonumentPieces$z1e	0	0	2	0	
+net.minecraft.world.gen.structure.StructureStrongholdPieces$1	0	0	2	0	
+net.minecraft.world.gen.structure.StructureStrongholdPieces$2	0	0	2	0	
+net.minecraft.world.gen.structure.StructureStrongholdPieces$ChestCorridor	0	0	2	0	
+net.minecraft.world.gen.structure.StructureStrongholdPieces$Library	0	0	2	0	
+net.minecraft.world.gen.structure.StructureStrongholdPieces$Prison	0	0	2	0	
+net.minecraft.world.gen.structure.StructureStrongholdPieces$RightTurn	0	0	2	0	
+net.minecraft.world.gen.structure.StructureStrongholdPieces$RoomCrossing	0	0	2	0	
+net.minecraft.world.gen.structure.StructureStrongholdPieces$StairsStraight	0	0	2	0	
+net.minecraft.world.gen.structure.StructureStrongholdPieces$cw5	0	0	2	0	
+net.minecraft.world.gen.structure.StructureVillagePieces$Church	0	0	2	0	
+net.minecraft.world.gen.structure.StructureVillagePieces$Hall	0	0	2	0	
+net.minecraft.world.gen.structure.StructureVillagePieces$House1	0	0	2	0	
+net.minecraft.world.gen.structure.StructureVillagePieces$House2	0	0	2	0	
+net.minecraft.world.gen.structure.StructureVillagePieces$House3	0	0	2	0	
+net.minecraft.world.gen.structure.StructureVillagePieces$Torch	0	0	2	0	
+net.minecraft.world.gen.structure.StructureVillagePieces$WoodHut	0	0	2	0	
+net.minecraft.world.gen.structure.StructureVillagePieces$y3u	0	0	2	0	
+net.optifine.BlockDir	0	0	2	0	
+net.optifine.BlockPosM$1$1	0	0	2	0	
+net.optifine.ChunkPosComparator	0	0	2	0	
+net.optifine.ConnectedTextures$1	0	0	2	0	
+net.optifine.ConnectedTexturesCompact	0	0	2	0	
+net.optifine.ConnectedTexturesCompact$1	0	0	2	0	
+net.optifine.CrashReporter$1	0	0	2	0	
+net.optifine.CustomColorFader	0	0	2	0	
+net.optifine.CustomColors$1	0	0	2	0	
+net.optifine.CustomColors$2	0	0	2	0	
+net.optifine.CustomColors$3	0	0	2	0	
+net.optifine.CustomColors$4	0	0	2	0	
+net.optifine.CustomColors$5	0	0	2	0	
+net.optifine.CustomGuiProperties$1	0	0	2	0	
+net.optifine.CustomGuiProperties$EnumVariant	0	0	2	0	
+net.optifine.CustomItems$1	0	0	2	0	
+net.optifine.CustomItemsComparator	0	0	2	0	
+net.optifine.DynamicLightsMap	0	0	2	0	
+net.optifine.LightMapPack	0	0	2	0	
+net.optifine.RandomTileEntity	0	0	2	0	
+net.optifine.TextureAnimationFrame	0	0	2	0	
+net.optifine.config.ConnectedParser$1	0	0	2	0	
+net.optifine.config.ConnectedParser$2	0	0	2	0	
+net.optifine.config.EntityClassLocator	0	0	2	0	
+net.optifine.config.ItemLocator	0	0	2	0	
+net.optifine.config.ParserEnchantmentId	0	0	2	0	
+net.optifine.entity.model.CustomEntityModel	0	0	2	0	
+net.optifine.entity.model.CustomModelRegistry	0	0	2	0	
+net.optifine.entity.model.ModelAdapterCaveSpider	0	0	2	0	
+net.optifine.entity.model.ModelAdapterCow	0	0	2	0	
+net.optifine.entity.model.ModelAdapterEnderman	0	0	2	0	
+net.optifine.entity.model.ModelAdapterMooshroom	0	0	2	0	
+net.optifine.entity.model.ModelAdapterPig	0	0	2	0	
+net.optifine.entity.model.ModelAdapterPigZombie	0	0	2	0	
+net.optifine.entity.model.ModelAdapterSheep	0	0	2	0	
+net.optifine.entity.model.ModelAdapterSkeleton	0	0	2	0	
+net.optifine.entity.model.ModelAdapterZombie	0	0	2	0	
+net.optifine.entity.model.anim.ModelVariableType$1	0	0	2	0	
+net.optifine.entity.model.anim.RenderEntityParameterBool$1	0	0	2	0	
+net.optifine.entity.model.anim.RenderEntityParameterFloat$1	0	0	2	0	
+net.optifine.entity.model.anim.RenderResolverEntity	0	0	2	0	
+net.optifine.entity.model.anim.RenderResolverTileEntity	0	0	2	0	
+net.optifine.expr.ExpressionFloatArrayCached	0	0	2	0	
+net.optifine.expr.ExpressionFloatCached	0	0	2	0	
+net.optifine.expr.ExpressionParser$1	0	0	2	0	
+net.optifine.expr.FunctionFloat	0	0	2	0	
+net.optifine.expr.FunctionFloat$1	0	0	2	0	
+net.optifine.expr.FunctionFloatArray	0	0	2	0	
+net.optifine.expr.FunctionType$1	0	0	2	0	
+net.optifine.expr.Parameters	0	0	2	0	
+net.optifine.expr.ParametersVariable	0	0	2	0	
+net.optifine.gui.GuiAnimationSettingsOF	0	0	2	0	
+net.optifine.gui.GuiDetailSettingsOF	0	0	2	0	
+net.optifine.gui.GuiMessage	0	0	2	0	
+net.optifine.gui.GuiOtherSettingsOF	0	0	2	0	
+net.optifine.gui.GuiPerformanceSettingsOF	0	0	2	0	
+net.optifine.gui.GuiQualitySettingsOF	0	0	2	0	
+net.optifine.gui.TooltipProviderEnumShaderOptions	0	0	2	0	
+net.optifine.http.FileDownloadThread	0	0	2	0	
+net.optifine.http.FileUploadThread	0	0	2	0	
+net.optifine.http.HttpPipeline$1	0	0	2	0	
+net.optifine.model.BlockModelCustomizer	0	0	2	0	
+net.optifine.model.ModelSprite	0	0	2	0	
+net.optifine.model.QuadBounds	0	0	2	0	
+net.optifine.model.QuadBounds$1	0	0	2	0	
+net.optifine.override.ChunkCacheOF	0	0	2	0	
+net.optifine.player.ModelPlayerItem	0	0	2	0	
+net.optifine.player.PlayerItemsLayer	0	0	2	0	
+net.optifine.reflect.FieldLocatorFixed	0	0	2	0	
+net.optifine.reflect.FieldLocatorName	0	0	2	0	
+net.optifine.reflect.Reflector$1	0	0	2	0	
+net.optifine.reflect.ReflectorFields	0	0	2	0	
+net.optifine.render.AabbFrame	0	0	2	0	
+net.optifine.render.ChunkVisibility	0	0	2	0	
+net.optifine.render.CloudRenderer	0	0	2	0	
+net.optifine.shaders.BlockAlias	0	0	2	0	
+net.optifine.shaders.ClippingHelperShadow	0	0	2	0	
+net.optifine.shaders.CustomTextureRaw	0	0	2	0	
+net.optifine.shaders.CustomTextureRaw$1	0	0	2	0	
+net.optifine.shaders.FlipTextures	0	0	2	0	
+net.optifine.shaders.HFNoiseTexture	0	0	2	0	
+net.optifine.shaders.Iterator3d	0	0	2	0	
+net.optifine.shaders.IteratorRenderChunks	0	0	2	0	
+net.optifine.shaders.Programs	0	0	2	0	
+net.optifine.shaders.ShaderPackDefault	0	0	2	0	
+net.optifine.shaders.ShaderPackFolder	0	0	2	0	
+net.optifine.shaders.ShaderPackNone	0	0	2	0	
+net.optifine.shaders.Shaders$1	0	0	2	0	
+net.optifine.shaders.ShadowUtils	0	0	2	0	
+net.optifine.shaders.config.ExpressionShaderOptionSwitch	0	0	2	0	
+net.optifine.shaders.config.ShaderMacros$1	0	0	2	0	
+net.optifine.shaders.config.ShaderOptionResolver	0	0	2	0	
+net.optifine.shaders.config.ShaderPackParser$1	0	0	2	0	
+net.optifine.shaders.gui.GuiButtonEnumShaderOption$1	0	0	2	0	
+net.optifine.shaders.gui.GuiShaders$1	0	0	2	0	
+net.optifine.shaders.gui.GuiSliderShaderOption	0	0	2	0	
+net.optifine.shaders.gui.GuiSlotShaders$1	0	0	2	0	
+net.optifine.shaders.uniform.ShaderParameterBool$1	0	0	2	0	
+net.optifine.shaders.uniform.ShaderParameterFloat$1	0	0	2	0	
+net.optifine.shaders.uniform.ShaderParameterIndexed	0	0	2	0	
+net.optifine.shaders.uniform.ShaderUniforms	0	0	2	0	
+net.optifine.shaders.uniform.UniformType$1	0	0	2	0	
+net.optifine.util.ArrayCache	0	0	2	0	
+net.optifine.util.DisplayModeComparator	0	0	2	0	
+net.optifine.util.KeyUtils	0	0	2	0	
+net.optifine.util.LinkedList$1	0	0	2	0	
+net.optifine.util.LockCounter	0	0	2	0	
+net.optifine.util.MathUtilsTest$1	0	0	2	0	
+net.optifine.util.MemoryMonitor	0	0	2	0	
+net.optifine.util.NativeMemory$1	0	0	2	0	
+net.optifine.util.RenderChunkUtils	0	0	2	0	
+net.optifine.util.TextureUtils$1	0	0	2	0	
+net.optifine.util.TextureUtils$2	0	0	2	0	
+nfo	0	0	2	0	
+ng2$__t	0	0	2	0	
+ng2$h2l	0	0	2	0	
+ng2$n3x	0	0	2	0	
+ng2$rgz	0	0	2	0	
+ng2$xct	0	0	2	0	
+nh0	0	0	2	0	
+nn2$1	0	0	2	0	
+nn2$2	0	0	2	0	
+nn2$2$1	0	0	2	0	
+nny	0	0	2	0	
+npm	0	0	2	0	
+nrk$n3g	0	0	2	0	
+nrk$sgu	0	0	2	0	
+nrk$umh	0	0	2	0	
+nrt	0	0	2	0	
+nrz	0	0	2	0	
+nv3$wa2	0	0	2	0	
+nw7$ag0	0	0	2	0	
+nyj	0	0	2	0	
+nyj$xty	0	0	2	0	
+o1g	0	0	2	0	
+o2n$wma	0	0	2	0	
+o4j	0	0	2	0	
+o4x	0	0	2	0	
+o72$1	0	0	2	0	
+o8h$1	0	0	2	0	
+o9v	0	0	2	0	
+o_g	0	0	2	0	
+ob1$1	0	0	2	0	
+ob1$2	0	0	2	0	
+ob1$3	0	0	2	0	
+ob1$4	0	0	2	0	
+ob1$5	0	0	2	0	
+ob1$6	0	0	2	0	
+ob1$7	0	0	2	0	
+od1	0	0	2	0	
+of9	0	0	2	0	
+off$hfv	0	0	2	0	
+ofx	0	0	2	0	
+og6	0	0	2	0	
+oi2$1	0	0	2	0	
+okc	2	0	2	0	
+olc	0	0	2	0	
+omn	0	0	2	0	
+oo6$1	0	0	2	0	
+oo6$2	0	0	2	0	
+ooh$jmx	0	0	2	0	
+opt$1	0	0	2	0	
+oq0	0	0	2	0	
+oqt	0	0	2	0	
+ork	0	0	2	0	
+orn$1	0	0	2	0	
+osf$etd$1	0	0	2	0	
+oso	0	0	2	0	
+ov0	0	0	2	0	
+ov9	0	0	2	0	
+ovv$1	0	0	2	0	
+oxm	0	0	2	0	
+oz4	0	0	2	0	
+p09	0	0	2	0	
+p0y	0	0	2	0	
+p3k	0	0	2	0	
+p3y$1	0	0	2	0	
+p76	0	0	2	0	
+p8d	0	0	2	0	
+p8x	0	0	2	0	
+p9l	0	0	2	0	
+p_k$1	0	0	2	0	
+p_k$2	0	0	2	0	
+p_k$3$1$1	0	0	2	0	
+p_k$4	0	0	2	0	
+pca	0	0	2	0	
+pcl$1	0	0	2	0	
+pfc$1	0	0	2	0	
+phe	0	0	2	0	
+pi5	0	0	2	0	
+pi9	0	0	2	0	
+pid	0	0	2	0	
+pjq	0	0	2	0	
+pld$1	0	0	2	0	
+pld$2	0	0	2	0	
+pm1	0	0	2	0	
+pm1$qz8	0	0	2	0	
+pmg	0	0	2	0	
+pmg$ans	0	0	2	0	
+pni$dqe	0	0	2	0	
+poy$1	0	0	2	0	
+pql$1	0	0	2	0	
+pt5	0	0	2	0	
+pt5$x7w	0	0	2	0	
+pxe	0	0	2	0	
+pyh	0	0	2	0	
+pyk$1	0	0	2	0	
+pyk$2	0	0	2	0	
+pyk$3	0	0	2	0	
+q08$_r5	0	0	2	0	
+q1h$_7g	0	0	2	0	
+q1h$z5s	0	0	2	0	
+q1z	0	0	2	0	
+q2b$1	0	0	2	0	
+q3g$1	0	0	2	0	
+q3g$2	0	0	2	0	
+q3g$szd	0	0	2	0	
+q50	0	0	2	0	
+q51	0	0	2	0	
+q_s	0	0	2	0	
+q_s$nm_	0	0	2	0	
+qbw	0	0	2	0	
+qbw$p3h	0	0	2	0	
+qd8	0	0	2	0	
+qed	0	0	2	0	
+qg0	0	0	2	0	
+qgq$1	0	0	2	0	
+qgq$2	0	0	2	0	
+qig	0	0	2	0	
+qkb	0	0	2	0	
+qkb$hy1	0	0	2	0	
+qkl	0	0	2	0	
+qkp$1	0	0	2	0	
+qm2	0	0	2	0	
+qpc$1	0	0	2	0	
+qpp$cv2	0	0	2	0	
+qpp$ymb	0	0	2	0	
+qv5$1	0	0	2	0	
+qv5$2	0	0	2	0	
+qve	0	0	2	0	
+qw9	0	0	2	0	
+qyg$bpd	0	0	2	0	
+qyi$1	0	0	2	0	
+qyi$2	0	0	2	0	
+r05	0	0	2	0	
+r11$1	0	0	2	0	
+r25	0	0	2	0	
+r2c$kgm	0	0	2	0	
+r57	0	0	2	0	
+r57$le8	0	0	2	0	
+r5w$1	0	0	2	0	
+r5w$2	0	0	2	0	
+r6u	0	0	2	0	
+r72$ct2	0	0	2	0	
+r8t	0	0	2	0	
+r8z	0	0	2	0	
+r8z$hf_	0	0	2	0	
+r97$1	0	0	2	0	
+r97$10	0	0	2	0	
+r97$11	0	0	2	0	
+r97$12	0	0	2	0	
+r97$13	0	0	2	0	
+r97$14	0	0	2	0	
+r97$15	0	0	2	0	
+r97$16	0	0	2	0	
+r97$2	0	0	2	0	
+r97$3	0	0	2	0	
+r97$4	0	0	2	0	
+r97$5	0	0	2	0	
+r97$5$1	0	0	2	0	
+r97$6	0	0	2	0	
+r97$7	0	0	2	0	
+r97$8	0	0	2	0	
+r97$9	0	0	2	0	
+rd2	0	0	2	0	
+rft	0	0	2	0	
+rjp	0	0	2	0	
+rl2	0	0	2	0	
+rlx	0	0	2	0	
+rn9	0	0	2	0	
+rqp$czc	0	0	2	0	
+rqp$d3e	0	0	2	0	
+rsc	0	0	2	0	
+rww	0	0	2	0	
+rx1	0	0	2	0	
+rxk	0	0	2	0	
+rys	0	0	2	0	
+ryw	0	0	2	0	
+rze	0	0	2	0	
+s0k	0	0	2	0	
+s1e	0	0	2	0	
+s24$1	0	0	2	0	
+s2w	0	0	2	0	
+s35	0	0	2	0	
+s40	0	0	2	0	
+s4i$1	0	0	2	0	
+s4i$2	0	0	2	0	
+s4i$3	0	0	2	0	
+s8o	0	0	2	0	
+s9p$pgo	0	0	2	0	
+sae	0	0	2	0	
+sdu	0	0	2	0	
+se8	0	0	2	0	
+sf8$1	0	0	2	0	
+sf8$jrb	0	0	2	0	
+sgp	0	0	2	0	
+sh2	0	0	2	0	
+shf	0	0	2	0	
+shg	0	0	2	0	
+six$1	0	0	2	0	
+six$2	0	0	2	0	
+six$3	0	0	2	0	
+sl_	0	0	2	0	
+sla$1	0	0	2	0	
+sqm	0	0	2	0	
+sso$2	0	0	2	0	
+su7	0	0	2	0	
+sum	0	0	2	0	
+svi	0	0	2	0	
+sxx$kbr	0	0	2	0	
+sxx$vyu	0	0	2	0	
+sza$kq1	0	0	2	0	
+sza$y35	0	0	2	0	
+szu	0	0	2	0	
+t0d	0	0	2	0	
+t2t	0	0	2	0	
+t57	0	0	2	0	
+t5_$aw2	0	0	2	0	
+t6d$1	0	0	2	0	
+t6d$ulc	0	0	2	0	
+t7e$1	0	0	2	0	
+t8z	0	0	2	0	
+t8z$1	0	0	2	0	
+t9d$1	0	0	2	0	
+t9d$2	0	0	2	0	
+t9d$3	0	0	2	0	
+t9d$4	0	0	2	0	
+t_e	0	0	2	2	
+tab	0	0	2	0	
+tbt$1	0	0	2	0	
+tbt$2	0	0	2	0	
+tbt$3	0	0	2	0	
+tdq$1	0	0	2	0	
+tgt	0	0	2	0	
+tjj	0	0	2	0	
+tm5	0	0	2	0	
+tmv$rdi	0	0	2	0	
+tmv$udq	0	0	2	0	
+tn9	0	0	2	0	
+tps	0	0	2	0	
+tqh$1	0	0	2	0	
+tts$1	0	0	2	0	
+tts$2	0	0	2	0	
+tts$3	0	0	2	0	
+ttt$1	0	0	2	0	
+ttt$2	0	0	2	0	
+tvi	0	0	2	0	
+tvk	0	0	2	0	
+tvk$ewj	0	0	2	0	
+tvx	0	0	2	0	
+tw2	0	0	2	0	
+ty7	0	0	2	0	
+u09	0	0	2	0	
+u10$kme	0	0	2	0	
+u10$nlg	0	0	2	0	
+u10$red	0	0	2	0	
+u4_$1	0	0	2	0	
+u51	0	0	2	0	
+u5m$1	0	0	2	0	
+u5m$cco$1	0	0	2	0	
+u71	0	0	2	0	
+u7m$1	0	0	2	0	
+u7m$10	0	0	2	0	
+u7m$11	0	0	2	0	
+u7m$12	0	0	2	0	
+u7m$13	0	0	2	0	
+u7m$14	0	0	2	0	
+u7m$15	0	0	2	0	
+u7m$16	0	0	2	0	
+u7m$17	0	0	2	0	
+u7m$2	0	0	2	0	
+u7m$3	0	0	2	0	
+u7m$4	0	0	2	0	
+u7m$5	0	0	2	0	
+u7m$6	0	0	2	0	
+u7m$7	0	0	2	0	
+u7m$8	0	0	2	0	
+u7m$9	0	0	2	0	
+uav$1	0	0	2	0	
+uc2	0	0	2	0	
+ug2	0	0	2	0	
+uhh	0	0	2	0	
+uit	0	0	2	0	
+uja$1	0	0	2	0	
+uja$10	0	0	2	0	
+uja$11	0	0	2	0	
+uja$12	0	0	2	0	
+uja$2	0	0	2	0	
+uja$3	0	0	2	0	
+uja$4	0	0	2	0	
+uja$5	0	0	2	0	
+uja$6	0	0	2	0	
+uja$7	0	0	2	0	
+uja$8	0	0	2	0	
+uja$9	0	0	2	0	
+um3$1	0	0	2	0	
+um3$2	0	0	2	0	
+umi	0	0	2	0	
+un6	0	0	2	0	
+unm	0	0	2	0	
+ut6	0	0	2	0	
+utd	0	0	2	0	
+uv0$1	0	0	2	0	
+uv0$2	0	0	2	0	
+uw1$e46	0	0	2	0	
+uw8	0	0	2	0	
+uwp	0	0	2	0	
+v1n	0	0	2	0	
+v27	0	0	2	0	
+v27$zt0	0	0	2	0	
+v3i$1	0	0	2	0	
+v3i$2	0	0	2	0	
+v3i$3	0	0	2	0	
+v3i$4	0	0	2	0	
+v71	0	0	2	0	
+v9i$_tl	0	0	2	0	
+v9i$li6	0	0	2	0	
+va3	0	0	2	0	
+va9	0	0	2	0	
+vc3	0	0	2	0	
+vd3$1	0	0	2	0	
+vd3$y_1	0	0	2	0	
+vdm	0	0	2	0	
+vg1	0	0	2	0	
+vg2$m1e	0	0	2	0	
+vgz	0	0	2	0	
+vh8	0	0	2	0	
+vm8	0	0	2	0	
+vnt	0	0	2	0	
+vo4	0	0	2	0	
+vq5	0	0	2	0	
+vqp	0	0	2	0	
+vqu$1	0	0	2	0	
+vr1$1	0	0	2	0	
+vr1$2	0	0	2	0	
+vr1$3	0	0	2	0	
+vwy	0	0	2	0	
+w0u$p0a	0	0	2	0	
+w69$2	0	0	2	0	
+w69$3	0	0	2	0	
+w8n	0	0	2	0	
+w8s$m6q	0	0	2	0	
+w_t	0	0	2	0	
+w_u	0	0	2	0	
+w_u$ebn	0	0	2	0	
+wbc	0	0	2	0	
+we7$nyh	0	0	2	0	
+wgm$1	0	0	2	0	
+who	0	0	2	0	
+wir$_cj	0	0	2	0	
+wl1$qyc	0	0	2	0	
+wlx$1	0	0	2	0	
+wod	0	0	2	0	
+wpl$1	0	0	2	0	
+wsc$1	0	0	2	0	
+wsc$2	0	0	2	0	
+wsc$3	0	0	2	0	
+wsc$4	0	0	2	0	
+wsc$5	0	0	2	0	
+wv_	0	0	2	0	
+wxy	0	0	2	0	
+wxy$pyc	0	0	2	0	
+wzg	0	0	2	0	
+wzg$1	0	0	2	0	
+wzi$1	0	0	2	0	
+x1h	0	0	2	0	
+x35	0	0	2	0	
+x40	0	0	2	0	
+x4j$1	0	0	2	0	
+x4j$y3_$1	0	0	2	0	
+x4j$y3_$2	0	0	2	0	
+x4j$y3_$3	0	0	2	0	
+x4j$y3_$4	0	0	2	0	
+x4j$y3_$5	0	0	2	0	
+x4j$y3_$6	0	0	2	0	
+x9p	0	0	2	0	
+x_b$1	0	0	2	0	
+x_b$2	0	0	2	0	
+xb4$1	0	0	2	0	
+xbs	0	0	2	1	
+xc2	0	0	2	0	
+xer$1	0	0	2	0	
+xf8$1	0	0	2	0	
+xhb	0	0	2	0	
+xi1$1	0	0	2	0	
+xkr	0	0	2	0	
+xkr$u39	0	0	2	0	
+xq_	0	0	2	0	
+xql	0	0	2	0	
+xrf$1	0	0	2	0	
+xrf$2	0	0	2	0	
+xvd	0	0	2	0	
+xyl	0	0	2	0	
+y0y$1	0	0	2	0	
+y1i$1	0	0	2	0	
+y1i$2	0	0	2	0	
+y1w$1	0	0	2	0	
+y1w$10	0	0	2	0	
+y1w$11	0	0	2	0	
+y1w$12	0	0	2	0	
+y1w$13	0	0	2	0	
+y1w$2	0	0	2	0	
+y1w$3	0	0	2	0	
+y1w$4	0	0	2	0	
+y1w$5	0	0	2	0	
+y1w$6	0	0	2	0	
+y1w$7	0	0	2	0	
+y1w$8	0	0	2	0	
+y1w$9	0	0	2	0	
+y21	0	0	2	0	
+y3g	0	0	2	0	
+y3n$yp7	0	0	2	0	
+y5_	0	0	2	0	
+y6e	0	0	2	0	
+y8w	0	0	2	0	
+y_0	0	0	2	0	
+yau	0	0	2	0	
+yau$m1x	0	0	2	0	
+ycv	0	0	2	0	
+yem$1	0	0	2	0	
+yem$2	0	0	2	0	
+yh2	0	0	2	0	
+yig$3	0	0	2	0	
+yig$4	0	0	2	0	
+yig$5	0	0	2	0	
+yig$8	0	0	2	0	
+yip$1	0	0	2	0	
+yk4$1$1	0	0	2	0	
+yks	0	0	2	0	
+ylk	0	0	2	0	
+ylk$h7s	0	0	2	0	
+ylu$r_s	0	0	2	0	
+ylx$y96	0	0	2	0	
+yn6	0	0	2	0	
+yo9$vcp	0	0	2	0	
+yoe$1	0	0	2	0	
+yoe$2	0	0	2	0	
+yoe$3$1	0	0	2	0	
+ysc	0	0	2	0	
+ysf$co8	0	0	2	0	
+ysf$ef0	0	0	2	0	
+ysf$j95	0	0	2	0	
+ysf$oa5	0	0	2	0	
+ysf$uow	0	0	2	0	
+ysh	0	0	2	0	
+yu2$1	0	0	2	0	
+yu2$2	0	0	2	0	
+yu2$3	0	0	2	0	
+yve$1	0	0	2	0	
+ywi	0	0	2	0	
+ywl$1	0	0	2	0	
+yxu$1	0	0	2	0	
+yy5	0	0	2	0	
+yyp	0	0	2	0	
+yyw	0	0	2	0	
+z2b$1	0	0	2	0	
+z56	0	0	2	0	
+z83$1	0	0	2	0	
+z83$10	0	0	2	0	
+z83$11	0	0	2	0	
+z83$12	0	0	2	0	
+z83$2	0	0	2	0	
+z83$3	0	0	2	0	
+z83$4	0	0	2	0	
+z83$5	0	0	2	0	
+z83$6	0	0	2	0	
+z83$7	0	0	2	0	
+z83$8	0	0	2	0	
+z83$9	0	0	2	0	
+z90$e1u	0	0	2	0	
+z_9	0	0	2	0	
+zc5	0	0	2	0	
+zcf	0	0	2	0	
+zcp	0	0	2	0	
+zef	0	0	2	0	
+zek	0	0	2	0	
+zfo$1	0	0	2	0	
+zfo$m33	0	0	2	0	
+zhh	0	0	2	0	
+zj4	0	0	2	0	
+zj4$1	0	0	2	0	
+zj4$1$1	0	0	2	0	
+zmy	0	0	2	0	
+znj	0	0	2	0	
+zqy	0	0	2	0	
+zsm	0	0	2	0	
+zv4$peb	0	0	2	0	
+zvc$1	0	0	2	0	
+zvo	0	0	2	0	
+zwr$m2b	0	0	2	0	
+zy2$1	0	0	2	0	
+zy4$1	0	0	2	0	
+zzo	0	0	2	0	
+net.optifine.shaders.ShaderProgramData	74	74	1	0	tex
+net.optifine.GlDebugHandler	22	22	1	0	WIN
+wr1	15	15	1	0	, 
+Start	13	13	1	0	{}
+c7u	14	13	1	0	 Won:
+w6s	13	13	1	0	Slot
+a7j	10	10	1	0	\\_
+uon	10	10	1	0	add
+trk	9	9	1	0	§8.
+ke3	8	8	1	0	, 
+smq	8	8	1	0	 §fHypixel
+glq	7	7	1	0	Fly
+ib7	6	6	1	0	Get Hypixel 1+
+wg9	6	6	1	0	clear
+ih8	5	5	1	0	clear
+net.optifine.util.CacheObjectArray	5	5	1	0	New: 
+k4_	4	4	1	0	Disabler
+net.optifine.NextTickHashSet	4	4	1	0	Added: 
+net.optifine.reflect.FieldLocatorActionKeyF3	4	4	1	0	.actionKeyF3
+pnr	4	4	1	0	X:
+ewo	3	3	1	0	Hypixel
+net.optifine.util.MathUtilsTest	3	3	1	0	******** 
+t4g	3	3	1	0	§6
+ye6	3	3	1	0	Boost
+ymr	3	3	1	0	module
+_o8	2	2	1	0	, rotation=
+m22	2	2	1	0	Sound System
+ova	2	2	1	0	HypixelTest
+pyu	2	2	1	0	service stub not set.
+rpm	2	2	1	0	Copied!
+_1z	0	0	1	0	
+_80	0	0	1	0	
+_9p	0	0	1	0	
+_d4	0	0	1	0	
+_lm	0	0	1	0	
+a6s	0	0	1	0	
+a9u$1	0	0	1	0	
+an9	0	0	1	6	
+axx$1	0	0	1	0	
+b6n	0	0	1	0	
+bm6	0	0	1	0	
+btn	0	0	1	0	
+buk$1	0	0	1	0	
+bw6	0	0	1	0	
+c05$1	0	0	1	0	
+c4t	0	0	1	0	
+c5z	0	0	1	0	
+c6y	0	0	1	0	
+cbs	0	0	1	0	
+cg0	0	0	1	0	
+ck4	0	0	1	0	
+d0x	0	0	1	0	
+drz	0	0	1	0	
+dvx	0	0	1	0	
+evu	0	0	1	0	
+f5a$1	0	0	1	0	
+g_n	0	0	1	0	
+gc9	0	0	1	0	
+gm3	0	0	1	0	
+gpp	0	0	1	0	
+gws	0	0	1	0	
+gy9	0	0	1	0	
+h16$1	0	0	1	0	
+h_j	0	0	1	0	
+hc0$1	0	0	1	0	
+hdl$1	0	0	1	0	
+i1j	0	0	1	0	
+i6d	0	0	1	0	
+iew	0	0	1	0	
+if1$1	0	0	1	0	
+ih5	0	0	1	0	
+iy9	0	0	1	0	
+iyx	0	0	1	0	
+jc0$1	0	0	1	0	
+jw8$1	0	0	1	0	
+k4g	0	0	1	0	
+kcc$1	0	0	1	0	
+kop	0	0	1	0	
+kpb$1	0	0	1	0	
+m8d	0	0	1	0	
+net.arikia.dev.drpc.callbacks.DisconnectedCallback	0	0	1	0	
+net.arikia.dev.drpc.callbacks.ErroredCallback	0	0	1	0	
+net.arikia.dev.drpc.callbacks.JoinGameCallback	0	0	1	0	
+net.arikia.dev.drpc.callbacks.JoinRequestCallback	0	0	1	0	
+net.arikia.dev.drpc.callbacks.ReadyCallback	0	0	1	0	
+net.arikia.dev.drpc.callbacks.SpectateGameCallback	0	0	1	0	
+net.optifine.expr.TestExpressions	0	0	1	0	
+net.optifine.expr.TokenType$Const	0	0	1	0	
+net.optifine.shaders.DefaultTexture	0	0	1	0	
+net.optifine.shaders.SVertexAttrib	0	0	1	0	
+net.optifine.util.CacheLocal	0	0	1	0	
+net.optifine.util.CacheLocalByte	0	0	1	0	
+net.optifine.util.CompactArrayList	0	0	1	0	
+net.optifine.util.CompoundKey	0	0	1	0	
+net.optifine.util.FrameEvent	0	0	1	0	
+net.optifine.util.IntArray	0	0	1	0	
+o6c	0	0	1	0	
+off$1	0	0	1	0	
+oj6	0	0	1	0	
+p7q	0	0	1	0	
+rf2	0	0	1	0	
+rf7	0	0	1	0	
+rqp$1	0	0	1	0	
+skp	0	0	1	0	
+tc7	0	0	1	0	
+txz	0	0	1	5	
+u1m	0	0	1	0	
+uc7	0	0	1	0	
+uf5	0	0	1	0	
+ux9	0	0	1	0	
+vg2$1	0	0	1	0	
+w0u$1	0	0	1	0	
+w6a	0	0	1	0	
+we7$1	0	0	1	0	
+xs2	0	0	1	0	
+y6y	0	0	1	0	
+y_h$1	0	0	1	0	
+z0g	0	0	1	0	
+z90$1	0	0	1	0	
+z_p	0	0	1	0	
+zv4$1	0	0	1	0	

@@ -1,0 +1,22 @@
+﻿java.lang.NullPointerException: Cannot invoke "c05.mpf()" because the return value of "c05.vz1()" is null
+	at cyb.amo(Unknown Source)
+	at cyb.<init>(Unknown Source)
+	at cyb.<init>(Unknown Source)
+	at jsr.<clinit>(Unknown Source)
+	at gbe.<init>(Unknown Source)
+	at qih.<init>(Unknown Source)
+	at q08.drawScreen(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at DynamicGateTest.main(DynamicGateTest.java:77)
+Failed to load custom font
+jar                        : Flux_control.jar
+authentication state       : session object could not be synthesised (UnsatisfiedLinkError) - authentication state stays null
+qih resolved during call   : false
+exception                  : java.lang.ExceptionInInitializerError
+    at gbe.<init>(Unknown Source)
+    at qih.<init>(Unknown Source)
+    at q08.drawScreen(Unknown Source)
+    at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+exception inside qih.<init>: true
+VERDICT                    : LOGIN GATE ACTIVE - login screen reached

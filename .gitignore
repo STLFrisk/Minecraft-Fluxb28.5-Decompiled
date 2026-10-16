@@ -1,0 +1,91 @@
+# =============================================================================
+# Flux-RE — .gitignore
+#
+#   kept     decompiled source · the patched client · the analysis and toolchain
+#   dropped  the original sample · raw binaries copied by the decompiler ·
+#            build and experiment intermediates
+# =============================================================================
+
+
+# --- original sample ----------------------------------------------------------
+/archive/
+
+
+# --- build and experiment intermediates --------------------------------------
+# Rebuilt by: powershell -File tools/build-jar.ps1 -Install
+/work/
+/out/
+/build/
+*.class
+!patches/*.class
+*.pyc
+__pycache__/
+*.i64
+*.idb
+*.gpr
+*.pre-backup
+*.flux-orig
+
+# early decompile pass and throwaway probe projects, superseded by reference/
+/decompiled/
+
+
+# --- raw binaries that sit inside the decompiled trees ------------------------
+# The decompiler copies whatever is next to the classes: the packed native module
+# (48 MB x2), game fonts (15.6 MB) and textures (14.4 MB). None of it is decompiled
+# output; together it is about half of reference/ by size.
+reference/**/META-INF/
+reference/**/*.ttf
+reference/**/*.otf
+reference/**/*.png
+reference/**/*.dll
+reference/**/*.so
+reference/**/*.dylib
+
+
+# --- third-party code that is not ours to publish -----------------------------
+# OptiFine is bundled into the client and is not open source, so its decompiled
+# classes and its resources stay out of the repository. Its own packages are
+# net/optifine/** (including net/optifine/shaders/**) and the matching assets.
+#
+# Note: OptiFine also patches vanilla net/minecraft/** classes. Those are Mojang's
+# files rather than OptiFine's, so they cannot be split out by path and are treated
+# as part of the client like the rest of net/minecraft/**.
+reference/**/net/optifine/
+reference/**/assets/minecraft/optifine/
+
+
+# --- third-party Minecraft libraries bundled for the installer ----------------
+/releases/bundled-libraries/
+
+
+# --- raw dumps of the packed native module -----------------------------------
+# 127 MB of live, still-encrypted sections; the findings taken from them are in
+# docs/, mappings/ and evidence/*.tsv.
+/evidence/runtime-dump/
+
+
+# --- tooling output -----------------------------------------------------------
+/docs/report/checks.json
+flux-diag.txt
+
+
+# --- editor / OS / scratch ----------------------------------------------------
+.vscode/
+.idea/
+*.swp
+*~
+Thumbs.db
+desktop.ini
+.DS_Store
+/tmp/
+*.log
+hs_err_pid*.log
+replay_pid*.log
+
+
+# --- environment --------------------------------------------------------------
+.venv/
+venv/
+.env
+.env.*

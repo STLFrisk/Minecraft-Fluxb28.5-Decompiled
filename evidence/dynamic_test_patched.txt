@@ -1,0 +1,10 @@
+﻿jar                        : Flux_bypassed.jar
+authentication state       : session object could not be synthesised (UnsatisfiedLinkError) - authentication state stays null
+qih resolved during call   : false
+exception                  : java.lang.NullPointerException: Cannot invoke "eka.x05()" because "this.mxd" is null
+    at q08.drawScreen(Unknown Source)
+    at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+    at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+    at DynamicGateTest.main(DynamicGateTest.java:77)
+exception inside qih.<init>: false
+VERDICT                    : LOGIN BYPASSED - login screen never reached

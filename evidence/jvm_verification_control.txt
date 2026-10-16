@@ -1,0 +1,98 @@
+﻿q08                                *** VERIFICATION FAILURE: java.lang.VerifyError: Expecting a stackmap frame at branch target 32572
+Exception Details:
+  Location:
+    q08.drawScreen(IIF)V @36: goto
+  Reason:
+    Expected stackmap frame at this location.
+  Bytecode:
+    0000000: b201 c014 01c3 8337 04b8 019b 3606 b200
+    0000010: 7e15 0699 0010 5700 00a7 0007 b801 cbbf
+    0000020: b200 7e57 a77f 1800 002a b400 38bb 0086
+    0000030: 59b7 0087 b600 8ab1 b801 cbbf 2ab4 0045
+    0000040: b600 7086 3807 2ab4 0045 b600 8d86 3808
+    0000050: 2a03 032a b400 912a b400 9412 0100 1201
+    0000060: 00b6 0098 b200 9cb6 00a2 b600 a815 0699
+    0000070: 003a 9a00 27a7 0007 b801 cbbf b200 acb4
+    0000080: 00b0 2ab4 0091 2ab4 0094 b600 b615 069a
+    0000090: 0062 a700 07b8 01cb bfb2 00b9 b600 a2b6
+    00000a0: 00a8 a700 07b8 01cb bf99 001c b200 bd15
+    00000b0: 0699 0034 a700 07b8 01cb bfc7 0027 a700
+    00000c0: 07b8 01cb bfbb 00bf 5911 5e72 1402 8016
+    00000d0: 0483 ba02 6c00 0000 b700 c2a7 000d b801
+    00000e0: cbbf b200 bdb6 00c8 0b0b 1707 1708 b800
+    00000f0: ce0b 0b17 0717 08b2 00d4 b400 d712 0200
+    0000100: b800 dbb8 00df 1708 0d6e 1203 0066 3809
+    0000110: 2ab4 003d b600 e33a 0a19 0ab9 00e8 0100
+    0000120: 9900 3919 0ab9 00ec 0100 c000 253a 0b19
+    0000130: 0b17 070d 6e12 0400 6617 091b 1cb6 00f0
+    0000140: 1709 1205 0062 3809 1506 9901 f715 069a
+    0000150: ffca a700 07b8 01cb bfb2 00f6 bb00 f859
+    0000160: b700 f911 5dac 1402 8216 0483 ba02 6c00
+    0000170: 0000 b600 fdb2 0101 b600 fdb6 0105 1206
+    0000180: 0017 0812 0700 66b2 0108 b400 d712 0800
+    0000190: b601 0e57 b200 f611 7067 1402 8416 0483
+    00001a0: ba02 6c00 0000 1206 0017 0812 0900 66b2
+    00001b0: 0108 b400 d712 0800 b601 0e57 b200 f6bb
+    00001c0: 00f8 59b7 00f9 1170 6b14 0286 1604 83ba
+    00001d0: 026c 0000 00b6 00fd b801 13b6 00fd 120a
+    00001e0: 00b6 00fd b601 0512 0600 1708 120b 0066
+    00001f0: b201 08b4 00d7 1208 00b6 010e 57b2 00f6
+    0000200: bb00 f859 b700 f911 55ce 1402 8816 0483
+    0000210: ba02 6c00 0000 b600 fdb2 00ac 57b8 0118
+    0000220: b601 1cb6 0121 b600 fdb6 0105 1707 b201
+    0000230: 24bb 00f8 59b7 00f9 116d 1414 028a 1604
+    0000240: 83ba 026c 0000 00b6 00fd b200 ac57 b801
+    0000250: 18b6 011c b601 21b6 00fd b601 05b6 0128
+    0000260: 6612 0c00 6617 0812 0900 66b2 0108 b400
+    0000270: d712 0800 b601 0e57 b200 f611 34db 1402
+    0000280: 8c16 0483 ba02 6c00 0000 1707 b201 2411
+    0000290: 5d05 1402 8e16 0483 ba02 6c00 0000 b601
+    00002a0: 2866 120d 0066 1708 120b 0066 b201 08b4
+    00002b0: 00d7 1208 00b6 010e 5712 0600 120e 0012
+    00002c0: 0f00 b201 2b2a b400 38b4 012f b601 34b6
+    00002d0: 0128 6212 1000 6212 1100 b200 d4b4 00d7
+    00002e0: 1208 00b8 00db b800 dfb8 0139 2ab4 0038
+    00002f0: b601 3db2 0143 b601 4912 0c00 1212 0012
+    0000300: 0e00 120e 0010 0810 0810 1210 1212 1300
+    0000310: 1213 00b8 014f 03b8 0155 b801 58b2 012b
+    0000320: 2ab4 0038 b401 2fb6 0134 1214 0012 1500
+    0000330: b201 08b4 00d7 b601 5c57 2a1b 1c25 b701
+    0000340: 5eb1                                   
+  Exception Handler Table:
+    bci [14, 25] => handler: 28
+    bci [35, 56] => handler: 56
+    bci [80, 117] => handler: 120
+    bci [114, 146] => handler: 149
+    bci [124, 162] => handler: 165
+    bci [169, 180] => handler: 183
+    bci [172, 190] => handler: 193
+    bci [187, 222] => handler: 222
+    bci [328, 338] => handler: 341
+  Stackmap Table:
+    full_frame(@28,{Object[#33],Integer,Integer,Float,Long,Integer},{Object[#455]})
+    same_frame(@32)
+    same_locals_1_stack_item_frame(@35,Object[#128])
+    same_frame(@41)
+    same_locals_1_stack_item_frame(@56,Object[#455])
+    same_frame(@60)
+    full_frame(@120,{Object[#33],Integer,Integer,Float,Long,Integer,Float,Float},{Object[#455]})
+    same_frame(@124)
+    same_locals_1_stack_item_frame(@149,Object[#455])
+    same_frame(@153)
+    same_locals_1_stack_item_frame(@165,Object[#455])
+    same_locals_1_stack_item_frame(@169,Integer)
+    same_locals_1_stack_item_frame(@183,Object[#455])
+    same_locals_1_stack_item_frame(@187,Object[#196])
+    same_locals_1_stack_item_frame(@193,Object[#455])
+    same_frame(@197)
+    same_locals_1_stack_item_frame(@222,Object[#455])
+    same_frame(@226)
+    same_locals_1_stack_item_frame(@229,Object[#196])
+    same_locals_1_stack_item_frame(@232,Object[#191])
+    same_frame(@241)
+    append_frame(@281,Float,Object[#229])
+    full_frame(@341,{Object[#33],Integer,Integer,Float,Long,Integer,Float,Float,Float,Object[#229],Object[#37]},{Object[#455]})
+    chop_frame(@345,1)
+    same_frame_extended(@833)
+
+RESULT: 1 class(es) failed verification

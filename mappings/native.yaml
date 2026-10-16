@@ -1,0 +1,190 @@
+# Classes declaring ACC_NATIVE methods.
+# The Flux.jar ships exactly one native library — META-INF/Soter
+# (libsoter.dll, 50,531,856 bytes, export JNI_OnLoad only) — loaded by v6ma,
+# so every entry below is served by that single module via RegisterNatives.
+native_library:
+  container_entry: META-INF/Soter
+  pe_sha256: 7bf3b5a135152a6ecba93d275aa817e7070217e855d15de543e27222364f1404
+  kind: PE32+ x86-64 DLL
+  exports: [JNI_OnLoad]
+  imports: [kernel32!GetModuleHandleA, msvcrt!__iob_func]
+  loaded_by: v6ma
+  notes: >-
+    Heavily packed: the .boot section (49,501,184 bytes) holds the real code and
+    .winlice is 82,329,600 bytes of virtual size with zero bytes on disk.
+    Ghidra auto-analysis over 600s recovers only 4 functions.
+classes:
+  - class: an9
+    referenced_by: 1
+    methods:
+      - name: e2v
+        descriptor: "([BI)B"
+        java_callers: []
+      - name: hsw
+        descriptor: "([BI)B"
+        java_callers: []
+      - name: jrp
+        descriptor: "([B)Ljava/lang/String;"
+        java_callers: []
+      - name: m3n
+        descriptor: "(I)V"
+        java_callers: ["an9"]
+      - name: otn
+        descriptor: "(Ljava/lang/String;)[B"
+        java_callers: []
+      - name: uyt
+        descriptor: "([BII)[B"
+        java_callers: []
+  - class: ar7
+    referenced_by: 122
+    methods:
+      - name: yse
+        descriptor: "(Z)V"
+        java_callers: ["ar7", "fkf$afe", "smq", "szk", "vc3"]
+  - class: c05
+    referenced_by: 511
+    methods:
+      - name: cxa
+        descriptor: "()V"
+        java_callers: ["c05"]
+  - class: cfu
+    referenced_by: 3
+    methods:
+      - name: p6w
+        descriptor: "(Ljava/net/URL;)Ljava/lang/String;"
+        java_callers: ["cfu"]
+  - class: dr9
+    referenced_by: 20
+    methods:
+      - name: if3
+        descriptor: "()Ljava/lang/String;"
+        java_callers: ["dr9"]
+  - class: j1s
+    referenced_by: 125
+    methods:
+      - name: a8n
+        descriptor: "(Ljava/lang/String;)V"
+        java_callers: ["j1s"]
+      - name: d2z
+        descriptor: "(Z)V"
+        java_callers: ["ar7"]
+      - name: i__
+        descriptor: "()V"
+        java_callers: ["_hv", "a59", "a9u", "bb5", "dio", "e9p", "egi", "f2j"]
+      - name: ixy
+        descriptor: "(Ljava/lang/String;Ljava/lang/String;)I"
+        java_callers: []
+      - name: w4v
+        descriptor: "()V"
+        java_callers: ["_hv", "a59", "a9u", "bb5", "dio", "e9p", "egi", "f2j"]
+  - class: j83
+    referenced_by: 12
+    methods:
+      - name: _8o
+        descriptor: "()V"
+        java_callers: ["vqu"]
+      - name: cgq
+        descriptor: "()V"
+        java_callers: ["j83"]
+      - name: gln
+        descriptor: "()Z"
+        java_callers: ["a6k", "bb5", "d1f", "j83", "jej", "jr9", "zar", "zwr"]
+      - name: vgh
+        descriptor: "(Lnet/minecraft/network/play/server/S3FPacketCustomPayload;)V"
+        java_callers: ["j83"]
+  - class: kgt
+    referenced_by: 78
+    methods:
+      - name: eyk
+        descriptor: "()V"
+        java_callers: ["kgt"]
+      - name: vyp
+        descriptor: "(Ljava/lang/String;Ljava/lang/String;)J"
+        java_callers: []
+  - class: lxj
+    referenced_by: 2
+    methods:
+      - name: ib5
+        descriptor: "()V"
+        java_callers: ["lxj"]
+  - class: prq
+    referenced_by: 6
+    methods:
+      - name: d7q
+        descriptor: "(Ljava/lang/String;)V"
+        java_callers: []
+      - name: lz_
+        descriptor: "()V"
+        java_callers: ["prq"]
+      - name: onCommandEvent
+        descriptor: "(Ljava/lang/String;)V"
+        java_callers: []
+      - name: onLoggedEvent
+        descriptor: "(Ltoday/flux/irc/protocol/packet/LoggedPacket;)V"
+        java_callers: []
+      - name: onReceivedMessage
+        descriptor: "(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V"
+        java_callers: []
+      - name: onSuccessfulSendMessageEvent
+        descriptor: "()V"
+        java_callers: []
+  - class: qih
+    referenced_by: 3
+    methods:
+      - name: mjy
+        descriptor: "()V"
+        java_callers: ["qih"]
+      - name: mouseClicked
+        descriptor: "(III)V"
+        java_callers: []
+  - class: t_e
+    referenced_by: 2
+    methods:
+      - name: buy
+        descriptor: "()V"
+        java_callers: ["t_e"]
+      - name: wul
+        descriptor: "()V"
+        java_callers: ["t_e"]
+  - class: txz
+    referenced_by: 1
+    methods:
+      - name: ah7
+        descriptor: "()F"
+        java_callers: []
+      - name: ciz
+        descriptor: "()V"
+        java_callers: ["txz"]
+      - name: fgb
+        descriptor: "()V"
+        java_callers: ["txz"]
+      - name: hwr
+        descriptor: "(Ljava/lang/String;Ljava/lang/String;)V"
+        java_callers: []
+      - name: z0e
+        descriptor: "()Ljava/util/List;"
+        java_callers: []
+  - class: v3p
+    referenced_by: 6
+    methods:
+      - name: hgk
+        descriptor: "()V"
+        java_callers: ["xbs"]
+  - class: v6ma
+    referenced_by: 18
+    methods:
+      - name: Ex
+        descriptor: "(I)V"
+        java_callers: ["an9", "ar7", "c05", "cfu", "dr9", "j1s", "j83", "kgt"]
+  - class: xbs
+    referenced_by: 2
+    methods:
+      - name: a3o
+        descriptor: "(Li2h;)[F"
+        java_callers: ["xbs"]
+  - class: zwr
+    referenced_by: 86
+    methods:
+      - name: ju6
+        descriptor: "()V"
+        java_callers: []

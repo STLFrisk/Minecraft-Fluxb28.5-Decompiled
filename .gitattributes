@@ -1,0 +1,32 @@
+# Normalise line endings so a mixed Windows/Unix checkout stays diff-clean.
+# The toolchain is PowerShell and Python; both tolerate LF, and the decompiled
+# trees were produced on Windows, so text is stored as LF and checked out as-is.
+
+* text=auto eol=lf
+
+# Windows-native scripts: keep CRLF on checkout so they run without surprises.
+*.ps1 text eol=crlf
+*.psm1 text eol=crlf
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Binary — never let git touch these.
+*.jar binary
+*.class binary
+*.dll binary
+*.so binary
+*.dylib binary
+*.der binary
+*.png binary
+*.ttf binary
+*.otf binary
+*.docx binary
+*.xlsx binary
+*.zip binary
+
+# Generated decompiler output: exclude from diffs and language statistics so the
+# repository's language bar reflects the project rather than the target's code.
+reference/decompiled-bypassed-named/** linguist-generated=true
+reference/decompiled-bypassed-vineflower/** linguist-generated=true
+reference/decompiled-bypassed-cfr/** linguist-generated=true
+decompiled/** linguist-generated=true

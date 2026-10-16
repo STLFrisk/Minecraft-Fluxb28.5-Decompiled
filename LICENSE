@@ -1,0 +1,44 @@
+MIT License
+
+Copyright (c) 2026 Flux-RE contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---------------------------------------------------------------------------
+SCOPE OF THIS LICENSE
+
+This license covers ONLY the original material authored for this project:
+
+  * tools/           the analysis toolchain
+  * mappings/        the deobfuscation knowledge base
+  * docs/            the written analysis
+  * patches/         the patch descriptions and patch tooling
+  * scripts/         the build and verification scripts
+
+It does NOT cover, and must not be read as covering:
+
+  * Flux.jar, libsoter.dll, irc-1.3.jar or any other component of the analysed
+    target (see NOTICE.md);
+  * any Minecraft / Mojang code contained inside the target;
+  * decompiled output produced from the target, which is a derivative work of
+    the target and remains subject to the target author's rights;
+  * the files under releases/, which are patched copies of the target and are
+    provided only as a local analysis artefact.
+
+See NOTICE.md for the full statement.

@@ -1,0 +1,2 @@
+public interface z08 {
+}

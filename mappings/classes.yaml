@@ -1,0 +1,465 @@
+# Flux-RE class identity map
+#
+# Every entry below is a *claim* with the evidence that supports it. The schema is
+# deliberate: a name is only useful to the next analyst if they can check it.
+#
+#   obf         obfuscated name as it appears in Flux.jar (default package = no dots)
+#   name        proposed readable name (what a deobfuscator rename should produce)
+#   subsystem   coarse grouping, see mappings/README.md for the vocabulary
+#   confidence  confirmed | strong | inferred
+#                 confirmed - direct proof in the bytes (extends clause, exact literal,
+#                             native flag, or a single call site that fixes the meaning)
+#                 strong    - two or more independent signals agree
+#                 inferred  - one weak signal; treat as a hypothesis to falsify
+#   evidence    what specifically supports it, reproducible from this repository
+#   stats       {literals, interesting_literals, referenced_by, native_methods}
+#               from mappings/class-index.tsv (generated, do not hand-edit)
+#
+schema_version: 1
+target:
+  artifact: Flux.jar
+  sha256: 506D7B5659846F4F440CC6CB2BAB69D0A38262A213A4C7F43521C5DF1964FE2E
+  obfuscator: Zelix KlassMaster 12.0.4
+  note: >-
+    All game-side classes live in the default package; only net.minecraft.*,
+    net.optifine.*, net.arikia.* and Start keep recognizable names.
+
+classes:
+
+  # ---------------------------------------------------------------- ZKM runtime
+  - obf: Start
+    name: ZkmBootstrap
+    subsystem: obfuscation
+    confidence: confirmed
+    stats: {literals: 13, interesting_literals: 13, referenced_by: 1, native_methods: 0}
+    evidence: >-
+      Only human-readable name in the jar. Start.main decrypts 14 literals
+      (--version mcp / --accessToken 0 / --assetsDir assets / --assetIndex 1.8 /
+      --userProperties {} / --width 1280 / --height 720), concatenates them with the
+      real argv and calls net.minecraft.client.main.Main.main.
+
+  - obf: v6ma
+    name: ZkmNativeBridge
+    subsystem: obfuscation
+    confidence: confirmed
+    stats: {literals: 15, interesting_literals: 13, referenced_by: 18, native_methods: 1}
+    evidence: >-
+      Declares `public static native void Ex(int)`; owns the literals
+      /META-INF/Soter and /META-INF/Soter32, is the only Flux.jar class that calls
+      java.lang.System.load, and exposes UI() which Main invokes. Every ACC_NATIVE
+      method in the jar is served by that single dropped module.
+
+  - obf: c
+    name: ZkmConstantCipher
+    subsystem: obfuscation
+    confidence: confirmed
+    stats: {literals: 0, interesting_literals: 0, referenced_by: 1618, native_methods: 0}
+    evidence: >-
+      private long a, private long[] j, private static long[] k initialised to
+      new long[64]; public static a a(long,long,Object) plus a TEA-like
+      a(long,int,int,int[],long[]). Every class's <clinit> starts with
+      `c.a(L1,L2,lookupClass()).a(L3)` to derive its string-table key.
+
+  - obf: t9d
+    name: ZkmFlowPredicate
+    subsystem: obfuscation
+    confidence: confirmed
+    stats: {literals: 44, interesting_literals: 43, referenced_by: 1753, native_methods: 0}
+    evidence: >-
+      t9d.b() / t9d.c() are the opaque predicates that split ZKM's flow-obfuscated
+      branches. In q08.drawScreen the guard reads `invokestatic t9d.b(); iload; ifeq`
+      (offset 19). Do not "optimise" a call to it without checking which branch it
+      is guarding.
+
+  - obf: oov
+    name: ZkmWrappedException
+    subsystem: obfuscation
+    confidence: confirmed
+    stats: {literals: 0, interesting_literals: 0, referenced_by: 1911, native_methods: 0}
+    evidence: >-
+      Highest referenced_by count in the jar. Every obfuscated class declares
+      `private static oov a(oov)` and wraps its catch blocks as
+      `throw Cls.a(caught)`. Pure ZKM artefact, ignore when reading logic.
+
+  # ---------------------------------------------------------------- client core
+  - obf: c05
+    name: Minecraft
+    subsystem: core
+    confidence: strong
+    stats: {literals: 243, interesting_literals: 239, referenced_by: 511, native_methods: 1}
+    evidence: >-
+      c05.vz1() is the singleton accessor used from 511 classes; c05.z2i(GuiScreen) is
+      displayGuiScreen; c05.tx1 is the font renderer, c05.oxn the game settings,
+      c05.ee0() returns the session/profile holder whose s41 field sms writes. Owns
+      "########## GL ERROR ##########" and "MLv5_Yggdrasil.der".
+
+  - obf: zwr
+    name: ClientState
+    subsystem: core
+    confidence: strong
+    stats: {literals: 64, interesting_literals: 64, referenced_by: 86, native_methods: 1}
+    evidence: >-
+      Static kitchen-sink state: `public static prq tgs` (IRC session),
+      `public static zwr qkk` (self singleton), static config refs (cn7/crk/c_3),
+      `public static owt tfb` (shared font). zwr.ooi() simply returns tgs.
+      Never assigned from Java bytecode — only the native layer writes it.
+
+  - obf: gbe
+    name: GuiScreen
+    subsystem: ui
+    confidence: confirmed
+    stats: {literals: 24, interesting_literals: 24, referenced_by: 88, native_methods: 0}
+    evidence: >-
+      Superclass of q08 (title), qih (login), ib7 (alt generator), nn2 (alt manager).
+      Provides khf (button list), dt7/o1e (scaled width/height), f41 (Minecraft ref)
+      and the initGui/drawScreen/actionPerformed/mouseClicked/updateScreen contract.
+
+  - obf: eka
+    name: ScaledResolution
+    subsystem: ui
+    confidence: strong
+    stats: {literals: 0, interesting_literals: 0, referenced_by: 40, native_methods: 0}
+    evidence: >-
+      Constructed as `new eka(minecraft)` and read as eka.x05()/eka.lrx() wherever a
+      screen computes its scaled width/height (e.g. q08.drawScreen offsets 60-78).
+
+  - obf: gt4
+    name: GuiButton
+    subsystem: ui
+    confidence: confirmed
+    stats: {literals: 2, interesting_literals: 1, referenced_by: 92, native_methods: 0}
+    evidence: >-
+      Constructed as new gt4(id, x, y, w, h, label) and dispatched by reading `_me`
+      (the id) in actionPerformed; owns textures/gui/widgets.png.
+
+  - obf: moh
+    name: GameSettings
+    subsystem: core
+    confidence: confirmed
+    stats: {literals: 483, interesting_literals: 364, referenced_by: 111, native_methods: 0}
+    evidence: >-
+      Owns key.forward / key.left / key.right / key.back / key.jump /
+      key.categories.movement plus options.stream.compression.*.
+
+  # ---------------------------------------------------------------- screens
+  - obf: q08
+    name: GuiFluxMainMenu
+    subsystem: ui
+    confidence: confirmed
+    stats: {literals: 15, interesting_literals: 15, referenced_by: 9, native_methods: 0}
+    evidence: >-
+      Owns "Single Player" / "Multi Player" / "Alt Manager" / "Options" /
+      "Quit Game" / "Toggle Background" and "Copyright Mojang AB. Do not distribute!".
+      Contains the ONLY `new qih` in the whole jar, at drawScreen offset 45.
+
+  - obf: qih
+    name: GuiFluxLogin
+    subsystem: auth
+    confidence: confirmed
+    stats: {literals: 19, interesting_literals: 17, referenced_by: 3, native_methods: 2}
+    evidence: >-
+      Owns USERNAME / PASSWORD / LOGIN / GET HWID / No Account? / Password Reset,
+      the URIs flux.today/admin/register.php and flux.today/index.php/forgot,
+      flux/loginbackground.png, "Welcome to Flux Client!" and
+      "Ready for authentication"; declares native mouseClicked(int,int,int) and
+      native mjy() — the click handler and the login action are both native.
+
+  - obf: q08$_r5
+    name: GuiFluxMainMenu$Entry
+    subsystem: ui
+    confidence: strong
+    stats: {literals: 0, interesting_literals: 0, referenced_by: 1, native_methods: 0}
+    evidence: >-
+      q08 builds its menu as new q08$_r5(this, <screen>, <label>) for each entry.
+
+  - obf: iun
+    name: GuiSingleplayer
+    subsystem: ui
+    confidence: strong
+    stats: {literals: 25, interesting_literals: 23, referenced_by: 3, native_methods: 0}
+    evidence: q08.initGui adds new q08$_r5(this, new iun(this), "Single Player").
+
+  - obf: s9r
+    name: GuiMultiplayer
+    subsystem: ui
+    confidence: strong
+    stats: {literals: 26, interesting_literals: 23, referenced_by: 8, native_methods: 0}
+    evidence: >-
+      q08.initGui adds new q08$_r5(this, new s9r(this), "Multi Player"); owns the
+      literal MLv5_Netease.der, which is exactly the certificate the server-join path
+      needs.
+
+  - obf: qkp
+    name: GuiOptions
+    subsystem: ui
+    confidence: strong
+    stats: {literals: 0, interesting_literals: 0, referenced_by: 3, native_methods: 0}
+    evidence: q08.initGui adds new q08$_r5(this, new qkp(this, this.mnd.oxn), "Options").
+
+  - obf: nn2
+    name: GuiAltManager
+    subsystem: auth
+    confidence: confirmed
+    stats: {literals: 32, interesting_literals: 31, referenced_by: 4, native_methods: 0}
+    evidence: >-
+      q08 labels it "Alt Manager"; owns "Direct Login", "Premium: ", mcbaozi.com,
+      http://www.enalts.org, "Hypixel 1+ 仅0.2元" and 高质量黑卡.
+
+  - obf: ib7
+    name: GuiAltGenerator
+    subsystem: auth
+    confidence: confirmed
+    stats: {literals: 6, interesting_literals: 6, referenced_by: 1, native_methods: 0}
+    evidence: >-
+      Window title literal "NPC Alt Generator - APIKey"; buttons "Get Hypixel 1+",
+      "Get Hypixel 10+", "Get Hypixel 20+", "Back"; pre-fills its text field from
+      hy1._hs and calls new hy1(field.getText()).rbv(ps7.kt1|jov|mrf).
+
+  - obf: hxt
+    name: GuiTitleRenderer
+    subsystem: ui
+    confidence: inferred
+    stats: {literals: 104, interesting_literals: 92, referenced_by: 202, native_methods: 0}
+    evidence: >-
+      Owns textures/gui/title/mojang.png, opens URLs via java.awt.Desktop and is
+      referenced by 202 classes including OptiFine's CapeUtils. Role not yet pinned
+      down — a good first task for a contributor.
+
+  - obf: enq
+    name: SwingDialogHelper
+    subsystem: ui
+    confidence: inferred
+    stats: {literals: 6, interesting_literals: 6, referenced_by: 2, native_methods: 0}
+    evidence: Only class family besides nn2/nn2$2 that touches javax.swing.
+
+  # ---------------------------------------------------------------- auth / session
+  - obf: sms
+    name: FluxSessionService
+    subsystem: auth
+    confidence: confirmed
+    stats: {literals: 36, interesting_literals: 36, referenced_by: 2, native_methods: 0}
+    evidence: >-
+      `public class sms extends com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService`.
+      Constructor loads /MLv5_Netease.der or /MLv5_Yggdrasil.der as an X509 public key.
+      joinServer() reflects into GameProfile.name/id and rewrites c05.vz1().s41.
+      Owns "Authentication Failed. Wrong UUID!", "Wrong UserName!",
+      "Check your NeteaseLauncher!", "Connected To NeteaseLauncher - ipaddr:" and 127.0.0.1.
+
+  - obf: m1c
+    name: YggdrasilSessionClient
+    subsystem: auth
+    confidence: strong
+    stats: {literals: 25, interesting_literals: 25, referenced_by: 2, native_methods: 0}
+    evidence: >-
+      Owns .minecraft.net, .mojang.com and .thealtening.com together with sms, and
+      references ...yggdrasil.YggdrasilMinecraftSessionService by name.
+
+  - obf: grn
+    name: TheAlteningAuthService
+    subsystem: auth
+    confidence: strong
+    stats: {literals: 3, interesting_literals: 1, referenced_by: 2, native_methods: 0}
+    evidence: >-
+      Sole owner of authserver.thealtening.com and sessionserver.thealtening.com
+      (plus the literal "SSL"); paired with m1c by yxu.
+
+  - obf: zfs
+    name: YggdrasilUserAuthentication
+    subsystem: auth
+    confidence: strong
+    stats: {literals: 12, interesting_literals: 12, referenced_by: 9, native_methods: 0}
+    evidence: >-
+      Owns authlib's own messages ("Invalid username or password."), implements
+      com.mojang.authlib.UserAuthentication, and is the zfs.eoj(user, pass) call in
+      hy1.rbv that turns an alt into a real session.
+
+  - obf: w4q
+    name: FluxSessionService$CtorBridge
+    subsystem: auth
+    confidence: inferred
+    stats: {literals: 0, interesting_literals: 0, referenced_by: 3, native_methods: 0}
+    evidence: Only 515-byte class whose sole reference target is sms.<init>.
+
+  - obf: hy1
+    name: AltGeneratorApiClient
+    subsystem: auth
+    confidence: confirmed
+    stats: {literals: 8, interesting_literals: 8, referenced_by: 3, native_methods: 0}
+    evidence: >-
+      rbv(ps7) performs cfu.q4z(new URL("https://killaura.cn/gc.php?key=" + key +
+      "&type=" + mode)), parses a comma-separated code/msg/acc reply, and on code=="1"
+      splits acc into user:pass for zfs.eoj. peb() decodes \\uXXXX escapes.
+
+  - obf: x1l
+    name: LoginResult
+    subsystem: auth
+    confidence: strong
+    stats: {literals: 0, interesting_literals: 0, referenced_by: 14, native_methods: 0}
+    evidence: >-
+      Constructed as new x1l(user, pass, c05.vz1().ee0().z2u(), message) in hy1.rbv and
+      stored into qd_.oyx; exposes erm (message), rii(), y0c(), g9o().
+
+  - obf: qd_
+    name: AltAccountList
+    subsystem: auth
+    confidence: strong
+    stats: {literals: 7, interesting_literals: 7, referenced_by: 12, native_methods: 0}
+    evidence: >-
+      qd_.oyx.add(0, x1l) after a successful alt fetch, then qd_.mpj() refreshes the UI;
+      owns the literal "@alt.com".
+
+  - obf: szk
+    name: FluxConfigManager
+    subsystem: config
+    confidence: confirmed
+    stats: {literals: 72, interesting_literals: 72, referenced_by: 20, native_methods: 0}
+    evidence: >-
+      Owns Flux/conf_default.txt, Flux/conf_global.txt, Flux/conf_<name>, Flux/alt.txt,
+      Flux/bind.txt, Flux/friends.txt, Flux/prs-*.txt, Flux/nagapi.txt and
+      "Error loading from file Flux".
+
+  # ---------------------------------------------------------------- transport
+  - obf: cfu
+    name: HttpNativeCorpus
+    subsystem: network
+    confidence: strong
+    stats: {literals: 0, interesting_literals: 0, referenced_by: 3, native_methods: 1}
+    evidence: >-
+      Declares native p6w(java.net.URL)Ljava/lang/String; and is called as
+      cfu.q4z(new URL(...)) from hy1.rbv — i.e. the HTTP stack itself is native.
+
+  - obf: crb
+    name: HttpRequestBuilder
+    subsystem: network
+    confidence: strong
+    stats: {literals: 11, interesting_literals: 11, referenced_by: 8, native_methods: 0}
+    evidence: Owns the HTTP verbs GET/POST and application/x-www-form-urlencoded.
+
+  - obf: o3s
+    name: XinchenAcgApiClient
+    subsystem: network
+    confidence: confirmed
+    stats: {literals: 3, interesting_literals: 2, referenced_by: 2, native_methods: 0}
+    evidence: Sole owner of https://api.xinchen.space/acgurl/api.php?return=json.
+
+  - obf: gqi
+    name: HypixelWatchdogClient
+    subsystem: network
+    confidence: confirmed
+    stats: {literals: 16, interesting_literals: 16, referenced_by: 2, native_methods: 0}
+    evidence: Sole owner of https://api.hypixel.net/watchdogStats?key=.
+
+  - obf: prq
+    name: FluxIrcClient
+    subsystem: network
+    confidence: confirmed
+    stats: {literals: 0, interesting_literals: 0, referenced_by: 6, native_methods: 6}
+    evidence: >-
+      public LoggedPacket dbd; public ClientNetwork yjm; public Channel cuv;
+      native lz_(), onCommandEvent(String), onLoggedEvent(LoggedPacket),
+      onReceivedMessage(String,String,String), onSuccessfulSendMessageEvent(), d7q(String).
+      zwr.tgs holds this type.
+
+  - obf: jej
+    name: IrcListenerImpl
+    subsystem: network
+    confidence: inferred
+    stats: {literals: 0, interesting_literals: 0, referenced_by: 9, native_methods: 0}
+    evidence: >-
+      Implements today.flux.irc.client.event.IRCListener and calls
+      ClientNetwork.getUserName(); role beyond that unconfirmed.
+
+  # ---------------------------------------------------------------- crypto (native)
+  - obf: an9
+    name: NativeCrypto
+    subsystem: crypto
+    confidence: strong
+    stats: {literals: 0, interesting_literals: 0, referenced_by: 1, native_methods: 6}
+    evidence: >-
+      native m3n(I)V, jrp([B)String, otn(String)[B, hsw([BI)B and two more;
+      the encrypt/decrypt pair ([B<->String) is the IRC packet codec.
+
+  - obf: kgt
+    name: NativeHasher
+    subsystem: crypto
+    confidence: inferred
+    stats: {literals: 0, interesting_literals: 0, referenced_by: 1, native_methods: 2}
+    evidence: native vyp(String,String)J — two strings in, one long out; a keyed hash or HMAC.
+
+  - obf: j1s
+    name: NativeSignatureCheck
+    subsystem: crypto
+    confidence: inferred
+    stats: {literals: 0, interesting_literals: 0, referenced_by: 1, native_methods: 4}
+    evidence: >-
+      native ixy(String,String)I (two strings -> int, i.e. a comparison or verify),
+      plus a8n(String), w4v(), i__().
+
+  - obf: dr9
+    name: NativeMachineFingerprint
+    subsystem: crypto
+    confidence: inferred
+    stats: {literals: 0, interesting_literals: 0, referenced_by: 1, native_methods: 1}
+    evidence: >-
+      native if3()Ljava/lang/String; — a no-argument native call returning a String is
+      the shape you expect for a machine id. NOT yet proven to be the HWID source;
+      LoginPacket.hwid is the only confirmed consumer of a fingerprint.
+
+  # ---------------------------------------------------------------- anti-tamper
+  - obf: jiz
+    name: ScreenshotTaskWithSelfDestruct
+    subsystem: anti-tamper
+    confidence: confirmed
+    stats: {literals: 7, interesting_literals: 7, referenced_by: 2, native_methods: 0}
+    evidence: >-
+      implements Runnable, builds a BufferedImage from this.fe_.r_a/s1h/f86 and writes
+      a file. Its constructor reads zwr.tgs.dbd.getToken().length() and, when the value
+      is below a threshold, calls sun.misc.Unsafe.putAddress(0L, 0L) — a deliberate
+      JVM crash aimed at anyone who fakes a session with a short token.
+
+  # ---------------------------------------------------------------- helpers
+  - obf: q6h
+    name: Stopwatch
+    subsystem: util
+    confidence: strong
+    stats: {literals: 0, interesting_literals: 0, referenced_by: 31, native_methods: 0}
+    evidence: used as `new q6h()`, `q6h.u1k()` (reset) and `q6h.bgq(3500L)` (elapsed/cooldown).
+
+  - obf: gis
+    name: OptifineShaders
+    subsystem: render
+    confidence: strong
+    stats: {literals: 54, interesting_literals: 54, referenced_by: 53, native_methods: 0}
+    evidence: >-
+      Only class in the jar that calls oshi.SystemInfo; heavy GL20 / ARBShaderObjects /
+      ARBVertexBufferObject / EXTFramebufferObject usage; owns shader-related literals.
+
+  - obf: vb2
+    name: CjkTextBank
+    subsystem: util
+    confidence: inferred
+    stats: {literals: 34, interesting_literals: 34, referenced_by: 2, native_methods: 0}
+    evidence: 34 Chinese literals, called from pjd.
+
+  - obf: pjd
+    name: CjkTextGenerator
+    subsystem: util
+    confidence: inferred
+    stats: {literals: 22, interesting_literals: 22, referenced_by: 5, native_methods: 0}
+    evidence: Consumes vb2 and declares its own native methods.
+
+# ---------------------------------------------------------------------------
+# Not yet mapped. `mappings/class-index.tsv` ranks everything by referenced_by,
+# which is the cheapest way to pick the next target.
+unknowns_file: class-index.tsv
+unknowns_hint: >-
+  High-value unmapped targets, in rough order of payoff:
+    oov / c / t9d      - ZKM runtime, safe to ignore entirely
+    mew, zfz, ox_, p3y, gdz, ha9, e0x, u7m, erg, i2h, vt2
+                       - 200-500 referencing classes each; almost certainly world /
+                         entity / registry plumbing. Prefer OptiFine-named neighbours
+                         (net.optifine.*) to anchor them.
+    bdo, hzu, l86, nh4, uja, xbr, g_3, fe6
+                       - 100-260 referencing classes; likely NBT, chunks, packets.
+  Method: pick a class, read mappings/class-index.tsv `hint`, then
+  `tools/search_strings.py` plus a CFR decompile of that one class.
