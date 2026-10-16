@@ -35,7 +35,7 @@
 | 我想… | 看这里 |
 |---|---|
 | 读完整交付报告 | [docs/report/delivery-report.md](docs/report/delivery-report.md) · [.docx](docs/report/delivery-report.docx) |
-| 看已绕过版本的反编译源码 | [`reference/decompiled-bypassed-named/`](reference/decompiled-bypassed-named/)（**命名版，推荐阅读**） · [`reference/decompiled-bypassed-vineflower/`](reference/decompiled-bypassed-vineflower/)（原始混淆名，用于与字节码对照） · [`reference/decompiled-bypassed-cfr/`](reference/decompiled-bypassed-cfr/) |
+| 看已绕过版本的反编译源码 | [`reference/decompiled-bypassed-named/`](reference/decompiled-bypassed-named/)（**小部分函数命名**） · [`reference/decompiled-bypassed-vineflower/`](reference/decompiled-bypassed-vineflower/)（原始混淆名，用于与字节码对照） · [`reference/decompiled-bypassed-cfr/`](reference/decompiled-bypassed-cfr/) |
 | 查符号重命名的依据与范围 | [`mappings/RENAME.md`](mappings/RENAME.md) · `mappings/rename-map.tsv` |
 | 看 34 组补丁的字节级记录 | [patches/](patches/) · [交付报告 §5](docs/report/delivery-report.md) |
 | 复现构建 | [交付报告 §9](docs/report/delivery-report.md) · `scripts/` |
